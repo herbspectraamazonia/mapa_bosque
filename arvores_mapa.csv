@@ -1,0 +1,989 @@
+﻿codigo;acesso;familia;especie;local;lat;lon;linha_planilha
+GR601;GR601;Meliaceae;Carapa guianensis Aubl.;MAUA - C;-3.095914;-59.986812;2
+GR485;GR485;Humiriaceae;Endopleura uchi (Huber) Cuatrec.;ILHA - Incubadora;-3.096297;-59.988011;3
+CD166;CD166;Arecaceae;Attalea maripa (Aubl.) Mart.;MAUA - A;-3.096192;-59.986625;4
+GR170;GR170;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - VIIIb;-3.0968017;-59.986535;5
+GR678;GR678;Arecaceae;Euterpe oleracea Mart.;BOT - H;-3.095564;-59.986875;6
+GR331;GR331;Lauraceae;Persea americana Mill.;Trilha - VIb;-3.0974667;-59.98774;7
+CD043-1;CD043;Leguminosae-caes;Dialium guianense (Aubl.) Sandwith;SAU - C;-3.094381;-59.987929;8
+GR418;GR418;Anacardiaceae;Tapirira guianensis Aubl.;Trilha - IIb;-3.09886;-59.984825;9
+GR162;GR162;Meliaceae;Swietenia macrophylla King;CPPN - C;-3.096461;-59.987914;10
+PLANT001;PLANT001;Leguminosae-pap;Indet.;Trilha - X;-3.09612;-59.9862433;11
+GR302;GR302;Apocynaceae;Couma utilis (Mart.) Müll.Arg.;Ilha - Auditório;-3.0973333;-59.9863117;12
+GR303;GR303;Sapotaceae;Pouteria caimito (Ruiz & Pav.) Radlk.;Trilha - Vc;-3.0969517;-59.986825;13
+CD106;CD106;Lecythidaceae;Couroupita guianensis Aubl.;ADM - L;-3.093775;-59.988983;14
+GR266;GR266;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;Trilha - VIIIa;;;15
+GR207;GR207;Lecythidaceae;Eschweilera coriacea (DC.) S.A.Mori;Trilha - VIIIb;-3.0967117;-59.9864383;16
+GR571;GR571;Lecythidaceae;Indet.;CCCI - A;-3.095828;-59.986625;17
+GR212;GR212;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.096645;-59.986515;18
+GR229;GR229;Anacardiaceae;Spondias mombin L.;Trilha - VIIIb;-3.0970079;-59.986212;19
+LF18;LF18;Melastomataceae;Indet.;Trilha - V;-3.099232;-59.985483;20
+LF16;LF16;Melastomataceae;Indet.;Trilha - V;-3.09918;-59.985478;21
+GR146;GR146;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;BOT - B;-3.095579;-59.986994;22
+GR168;GR168;Combretaceae;Terminalia grandis (Ducke) Gere & Boatwr.;Trilha - VIIIb;-3.0967383;-59.98649;23
+GR199;GR199;Sapotaceae;Pouteria macrophylla (Lam.) Eyma;Trilha - VIIIb;-3.0967383;-59.9865883;24
+GR313;GR313;Elaeocarpaceae;Sloanea floribunda Spruce ex Benth.;Trilha - VIa;-3.0970233;-59.9868917;25
+GR332;GR332;Arecaceae;Euterpe oleracea Mart.;Trilha - VIb;-3.0974417;-59.9877517;26
+GR647;GR647;Malvaceae;Theobroma cacao L.;SAU - C;-3.09438;-59.988263;27
+GR250;GR250;Malvaceae;Ceiba pentandra (L.) Gaertn.;Trilha - VIIIb;-3.09653;-59.9866167;28
+GR186;GR186;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;-3.0968783;-59.986595;29
+GR399;GR399;Leguminosae-pap;Andira;Trilha - Va;;;30
+GR594;GR594;Apocynaceae;Couma utilis (Mart.) Müll.Arg.;DIR - A;-3.095346;-59.987731;31
+GR581;GR581;Arecaceae;Mauritia flexuosa L.f.;Trilha - IIIc;-3.098271;-59.984631;32
+CD260-1;CD260;Myristicaceae;Virola michelii Heckel;MAQ - D;;;33
+GR651;GR651;Leguminosae-mim;Inga laurina (Sw.) Willd.;DICAP - C;-3.094636;-59.986799;34
+CD179;CD179;Leguminosae-caes;Schizolobium amazonicum Huber ex Ducke;DIR - I;;;35
+GR454;GR454;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - IV;-3.0980433;-59.9858433;36
+CD152-1;CD152;Myrtaceae;Myrcia falax;MAQ - H;-3.096925;-59.987698;37
+GR476;GR476;Chrysobalanaceae;Licania sandwithii Prance;Trilha - VIIa;-3.0966817;-59.986195;38
+GR705;GR705;Combretaceae;Terminalia catappa L.;Trilha - VIIIb;-3.09926;-59.984151;39
+CD271;CD271;Olacaceae;Ptychopetalum olacoides Benth.;MAQ - C;;;40
+GR420;GR420;Arecaceae;Elaeis guianensis;Trilha - IIa;;;41
+GR419;GR419;Leguminosae-mim;Inga alba (Sw.) Willd.;Trilha - IIc;-3.0986917;-59.9848867;42
+GR138;GR138;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;CPPN - C;-3.096435;-59.988;43
+GR280;GR280;Malvaceae;Matisia cordata Bonpl.;Trilha - Ve;-3.0971933;-59.9865417;44
+GR662;GR662;;Indet.;BOT - G;-3.095274;-59.986779;45
+ND341;ND341;Lythraceae;Physocalymma scaberrimum Pohl;Trilha - VIIIb;-3.097226;-59.986555;46
+GR165;GR165;Leguminosae-mim;Parkia pendula (Willd.) Benth. ex Walp.;BOT - J;-3.095784;-59.987566;47
+GR034;GR034;Araceae;Heteropsis;BOT - E;-3.095364;-59.987284;48
+CD222;CD222;Poaceae;Bambusa;CPPF - A;-3.095658;-59.988269;49
+ND263-1;ND263;Lecythidaceae;Eschweilera odora (Poepp. ex van den Berg) Miers;Trilha - VIIIb;-3.096836;-59.986771;50
+CD043-2;CD043;Leguminosae-caes;Dialium guianense (Aubl.) Sandwith;CPPN - A;-3.096553;-59.987732;51
+GR576;GR576;Leguminosae-caes;Cassia grandis L.;ADM100 - B;-3.095997;-59.986247;52
+GR460;GR460;Arecaceae;Astrocaryum aculeatum G.Mey.;Trilha - VIIb;-3.0974;-59.9854317;53
+GR112;GR112;Araceae;Anthurium;Trilha - VIIIb;-3.097087;-59.986646;54
+CD336-1;CD336;Arecaceae;Attalea attaleoides (Barb.Rodr.) Wess.Boer;BOT - C;-3.095323;-59.987144;55
+CD218-1;CD218;Goupiaceae;Goupia glaberrima Radlk.;Trilha - VIIIb;-3.096998;-59.986511;56
+GR657;GR657;Lauraceae;Ocotea guianensis Aubl.;DICAP - A;-3.095028;-59.986837;57
+GR702;GR702;Myrtaceae;Eugenia patrisii Vahl;Trilha - IIb;-3.099175;-59.984654;58
+LF27;LF27;Melastomataceae;Indet.;Trilha - Ic;-3.10089;-59.98468;59
+CD118;CD118;Leguminosae-mim;Enterolobium schomburgkii (Benth.) Benth.;DIR - H;-3.094464;-59.987674;60
+CD08-1;CD08;Arecaceae;Elaeis oleifera (Kunth) Cortés;ADM - I;-3.094591;-59.989566;61
+CD099-1;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;;;62
+GR249;GR249;Lecythidaceae;Lecythis;Trilha - VIIIb;;;63
+GR017A;GR017A;Verbenaceae;Vitex triflora Vahl;BOT - I;-3.095669;-59.986997;64
+CD05-1;CD05;Arecaceae;Astrocaryum aculeatum G.Mey.;ADM - B;-3.09453;-59.989398;65
+GR308;GR308;Euphorbiaceae;Alchornea discolor Poepp.;Trilha - VIa;-3.0970033;-59.9868867;66
+GR204;GR204;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;-3.0967983;-59.9864783;67
+GR563;GR563;Annonaceae;Indet.;DICAP - A;-3.095102;-59.987027;68
+GR646;GR646;Anacardiaceae;Mangifera indica L.;SAU - E;-3.094447;-59.988692;69
+CD304;CD304;Leguminosae-pap;Hymenolobium;MAUA - A;-3.096299;-59.986684;70
+GR232;GR232;Chrysobalanaceae;Moquilea tomentosa Benth.;Trilha - VIIIb;-3.0969433;-59.9863867;71
+CD278-1;CD278;Malvaceae;Theobroma sylvestre Mart.;Trilha - VIIIb;-3.097284;-59.986542;72
+GR411;GR411;Anacardiaceae;Tapirira guianensis Aubl.;Trilha - IIa;;;73
+GR052;GR052;Annonaceae;Unonopsis stipitata Diels;Trilha - VIIIb;-3.096839;-59.986435;74
+ND175;ND175;Myristicaceae;Virola venosa (Benth.) Warb.;Trilha - VIIIb;;;75
+ND315;ND315;Anacardiaceae;Mangifera indica L.;Trilha - VIIIb;-3.097105;-59.986698;76
+GR040-1;GR040;Myrtaceae;Myrcia falax;SAU - C;-3.094341;-59.987843;77
+CD275-1;CD275;Chrysobalanaceae;Licania;Trilha - Ia;-3.097623;-59.987696;78
+CD319;CD319;Leguminosae-pap;Vataireopsis speciosa Ducke;BOT - G;-3.09519;-59.986685;79
+GR626;GR626;Indet;Indet.;DIR - G;-3.095101;-59.98736;80
+GR342;GR342;Arecaceae;Bactris gasipaes Kunth;Trilha - Ia;;;81
+ND428;ND428;Calophyllaceae;Mammea americana L.;Trilha - VIIIb;-3.097448;-59.986271;82
+GR154;GR154;Malvaceae;Ceiba pentandra (L.) Gaertn.;MAQ - A;-3.097087;-59.987715;83
+LF21;LF21;Melastomataceae;Indet.;Trilha - V;-3.099238;-59.9855;84
+GR474;GR474;Burseraceae;Protium hebetatum Daly;Trilha - VIIa;-3.0967783;-59.9859733;85
+CD206;CD206;Sapotaceae;Pouteria macrophylla (Lam.) Eyma;Trilha - Ia;-3.097676;-59.987738;86
+GR038-1;GR038;Oxalidaceae;Averrhoa bilimbi L.;MAQ - B;-3.097079;-59.987969;87
+CD111;CD111;Myrtaceae;Eugenia malaccensis L.;Trilha - VIIIb;;;88
+GR227;GR227;Myrtaceae;Syzygium malaccense (L.) Merr. & L.M.Perry;Trilha - VIIIb;-3.0968217;-59.9863917;89
+GR210;GR210;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIIb;-3.0966067;-59.9864883;90
+CD238;CD238;Rubiaceae;Amaioua guianensis Aubl.;MAQ - D;;;91
+CD178-1;CD178;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;DIR - G;-3.094806;-59.987435;92
+GR254;GR254;Myristicaceae;Virola pavonis (A.DC.) A.C.Sm.;Trilha - VIIIb;-3.0966317;-59.9866933;93
+GR405;GR405;Anacardiaceae;Spondias mombin L.;Trilha - IIIb;-3.0996033;-59.9845417;94
+CD224-1;CD224;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;;;95
+CD167;CD167;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;CCCI - B;-3.095588;-59.986354;96
+ND342;ND342;Myrtaceae;Eugenia stipitata McVaugh;Trilha - VIIIb;-3.097228;-59.986538;97
+GR220;GR220;Myrtaceae;Eugenia stipitata McVaugh;Trilha - VIIIb;-3.0967363;-59.9863779;98
+GR059;GR059;Leguminosae-mim;Inga laurina (Sw.) Willd.;Trilha - VIIIb;-3.097465;-59.986199;99
+ND144;ND144;Rubiaceae;Alibertia;Trilha - VIIIb;-3.096588;-59.987018;100
+GR019-1;GR019;Arecaceae;Oenocarpus bacaba Mart.;Trilha - VIIa;-3.096774;-59.985859;101
+GR561;GR561;Meliaceae;Swietenia macrophylla King;BOT - B;-3.095454;-59.987005;102
+GR316;GR316;Leguminosae-pap;Swartzia corrugata Benth.;Trilha - VIa;-3.0970167;-59.9869783;103
+GR555;GR555;Meliaceae;Cedrella odorata L.;CCCI - A;-3.095805;-59.986734;104
+CP26;CP26;Arecaceae;Indet.;ADM - K;-3.094767;-59.988712;105
+GR122;GR122;Urticaceae;Pourouma cecropiifolia Mart.;Trilha - VIIIb;-3.097042;-59.986712;106
+LF12;LF12;Melastomataceae;Indet.;Trilha - V;-3.09854;-59.985671;107
+GR625;GR625;Meliaceae;Swietenia macrophylla King;DIR - C;-3.09513;-59.987586;108
+CD014-1;CD014;Sapotaceae;Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.;Jardin 6;-3.093702;-59.988256;109
+CD321;CD321;Apocynaceae;Himatanthus sucuuba (Spruce ex Müll.Arg.) Woodson;BOT - C;-3.095403;-59.987147;110
+GR256;GR256;Moraceae;Helicostylis scabra (J.F.Macbr.) C.C.Berg;Trilha - VIIIb;-3.0967971;-59.9867054;111
+LF05;LF05;Melastomataceae;Indet.;Trilha - IIb;-3.098959;-59.98483;112
+GR166;GR166;Myrtaceae;Myrcia falax;ADM - I;-3.094668;-59.989584;113
+GR333;GR333;Sapindaceae;Matayba;Trilha - VIb;-3.097405;-59.987652;114
+CD330;CD330;Apocynaceae;Aspidosperma carapanauba Pichon;ADM - A;-3.094646;-59.988809;115
+CD091-1;CD091;Burseraceae;Tetragastris;Trilha - VIIIb;;;116
+GR519;GR519;Meliaceae;Cedrella odorata L.;CCCI - A;-3.095838;-59.986715;117
+GR257;GR257;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;-3.0967767;-59.9867467;118
+GR592;GR592;Apocynaceae;Couma utilis (Mart.) Müll.Arg.;BOT - E;-3.095297;-59.987426;119
+CD218-2;CD218;Goupiaceae;Goupia glaberrima Radlk.;CPPN - A;-3.096639;-59.987732;120
+GR300;GR300;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Ilha - Auditório;-3.0973183;-59.9863683;121
+GR317;GR317;Arecaceae;Euterpe oleracea Mart.;Trilha - VIa;-3.097095;-59.98711;122
+LF04;LF04;Melastomataceae;Indet.;Trilha - IIb;-3.09896;-59.984828;123
+GR286;GR286;Malvaceae;Matisia cordata Bonpl.;Trilha - Ve;-3.097165;-59.9867133;124
+LF07;LF07;Melastomataceae;Indet.;Trilha - IIb;-3.098762;-59.98483;125
+GR410;GR410;Malvaceae;Ceiba pentandra (L.) Gaertn.;Trilha - IIa;;;126
+CD090-1;CD090;Malvaceae;Ceiba pentandra (L.) Gaertn.;ADM - B;-3.09449;-59.989472;127
+GR348;GR348;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - Ia;-3.096946;-59.9877;128
+GR529;GR529;Lecythidaceae;Lecythis;BOT - C;-3.095425;-59.987246;129
+GR301;GR301;Arecaceae;Euterpe precatoria Mart.;Ilha - Auditório;-3.09736;-59.9864083;130
+GR343;GR343;Ebenaceae;Diospyros;Trilha - Ia;-3.097015;-59.987728;131
+GR073-1;GR073;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;Trilha - VIIIb;-3.09761;-59.986471;132
+ND076;ND076;Leguminosae-pap;Pterocarpus;Trilha - VIIIb;;;133
+GR445;GR445;Leguminosae-mim;Inga laurina (Sw.) Willd.;Trilha - VIIa;-3.0975117;-59.9855117;134
+GR339;GR339;Malvaceae;Ceiba pentandra (L.) Gaertn.;Trilha - Ia;-3.097081;-59.987709;135
+GR071-1;GR071;Lauraceae;Persea;Jardin 2;-3.095281;-59.989199;136
+GR417;GR417;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;Trilha - IIb;-3.098935;-59.9849217;137
+CD155;CD155;Leguminosae-mim;Stryphnodendron pulcherrimum (Willd.) Hochr.;DIR - I;-3.094736;-59.987741;138
+GR077;GR077;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;SAU - C;-3.094289;-59.988171;139
+GR349;GR349;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - Ia;-3.096881;-59.987696;140
+GR544;GR544;Erythroxylaceae;Indet.;BOT - M;-3.095661;-59.987406;141
+GR278;GR278;Arecaceae;Euterpe oleracea Mart.;Trilha - Ve;-3.0971683;-59.9866167;142
+CD085-1;CD085;Meliaceae;Swietenia macrophylla King;ADM - B;-3.094436;-59.9895;143
+GR637-1;GR637;Clusiaceae;Garcinia;Trilha - VIIIb;-3.097383;-59.986509;144
+GR677;GR677;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;CPPN - A;-3.096429;-59.988013;145
+CD221-1;CD221;Leguminosae-pap;Diplotropis rodriguesii H.C.Lima;Trilha - VIIIb;;;146
+GR424;GR424;Bixaceae;Bixa orellana L.;Trilha - IIIc;-3.098272;-59.984769;147
+LF14;LF14;Melastomataceae;Indet.;Trilha - V;-3.098612;-59.985605;148
+GR575;GR575;Meliaceae;Cedrella odorata L.;CCCI - A;-3.095778;-59.986755;149
+GR649;GR649;Urticaceae;Pourouma;DIR - E;-3.094887;-59.988071;150
+GR408;GR408;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - IIa;;;151
+GR294;GR294;Meliaceae;Carapa guianensis Aubl.;Ilha - Auditório;-3.0972517;-59.9863783;152
+CD041;CD041;Sapindaceae;Talisia esculenta (Cambess.) Radlk.;DIR - A;-3.095228;-59.987543;153
+GR609;GR609;Meliaceae;Carapa guianensis Aubl.;Trilha - XI;-3.096407;-59.987168;154
+GR597;GR597;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;QPN - A;-3.096229;-59.988212;155
+GR121;GR121;Caryocaraceae;Caryocar;Trilha - IIIc;-3.098169;-59.984689;156
+GR648;GR648;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;DIR - A;-3.095261;-59.987671;157
+GR344;GR344;Burseraceae;Trattinnickia;Trilha - Ia;-3.096952;-59.987796;158
+GR530;GR530;Annonaceae;Annona mucosa Jacq.;QUIAM - A;-3.096194;-59.988176;159
+ND207;ND207;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;Trilha - VIIIb;-3.096602;-59.986484;160
+GR548;GR548;Annonaceae;Indet.;BOT - I;-3.09575;-59.98699;161
+LF11;LF11;Melastomataceae;Indet.;Trilha - V;-3.098116;-59.985752;162
+GR252;GR252;Lecythidaceae;Eschweilera coriacea (DC.) S.A.Mori;Trilha - VIIIb;-3.09664;-59.98672;163
+PLANT018;PLANT018;Annonaceae;Guatteria punctata (Aubl.) R.A.Howard;QPN - A;-3.0963267;-59.9881467;164
+GR03-1;GR03;Arecaceae;Socratea exorrhiza (Mart.) H.Wendl.;Trilha - VIIIb;-3.096623;-59.986631;165
+GR259;GR259;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIIa;;;166
+GR556;GR556;Leguminosae-caes;Caesalpinia;BOT - L;-3.095723;-59.987063;167
+GR492;GR492;Chrysobalanaceae;Couepia longipendula Pilg.;BOT - E;-3.095129;-59.987219;168
+CD020;CD020;Salicaceae;Casearia grandiflora Cambess.;Trilha - VIIIb;;;169
+GR196;GR196;Chrysobalanaceae;Moquilea brittoniana (Fritsch) Sothers & Prance;Trilha - VIIIb;-3.0967333;-59.9866617;170
+ND293;ND293;Myrtaceae;Eugenia stipitata McVaugh;Trilha - VIIIb;-3.09694;-59.986187;171
+PLANT017;PLANT017;Lecythidaceae;Bertholletia excelsa Bonpl.;QUIAM - B;-3.0962017;-59.9885333;172
+PLANT004;PLANT004;Leguminosae-pap;Vatairea paraensis Ducke;CCCI - C;-3.09575;-59.9863433;173
+GR290;GR290;Anacardiaceae;Spondias mombin L.;Trilha - Ve;-3.09708;-59.986605;174
+GR03-2;GR03;Arecaceae;Socratea exorrhiza (Mart.) H.Wendl.;Trilha - VIIIb;-3.096591;-59.986222;175
+GR709;GR709;Anacardiaceae;Anacardium occidentale L.;Trilha - IIb;-3.09863;-59.984729;176
+GR566;GR566;Annonaceae;Indet.;ILHA - B;-3.096156;-59.986493;177
+GR608;GR608;Anacardiaceae;Spondias mombin L.;Trilha - IX;-3.095942;-59.986998;178
+ND349;ND349;Apocynaceae;Couma utilis (Mart.) Müll.Arg.;Trilha - VIIIb;-3.097369;-59.986477;179
+GR396;GR396;Annonaceae;Guatteria punctata (Aubl.) R.A.Howard;Trilha - Va;;;180
+GR335;GR335;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - VIb;-3.097472;-59.987653;181
+GR554;GR554;Annonaceae;Bocageopsis multiflora (Mart.) R.E.Fr.;Trilha - VIIa;-3.09674;-59.985918;182
+ND408;ND408;Sapotaceae;Pouteria guianensis Aubl.;Trilha - VIIIb;-3.097364;-59.9863;183
+GR462;GR462;Siparunaceae;Siparuna guianensis Aubl.;Trilha - VIIb;-3.0974317;-59.98567;184
+GR145;GR145;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Trilha - VIIIb;;;185
+GR137;GR137;Sapotaceae;Pouteria caimito (Ruiz & Pav.) Radlk.;Trilha - VIIIb;-3.096248;-59.986362;186
+GR019-2;GR019;Arecaceae;Oenocarpus bacaba Mart.;Portaria - B;-3.094592;-59.987125;187
+GR093;GR093;Lecythidaceae;Bertholletia excelsa Bonpl.;Trilha - VIIIb;-3.096515;-59.98613;188
+GR03-3;GR03;Arecaceae;Socratea exorrhiza (Mart.) H.Wendl.;Trilha - VIIIb;-3.096806;-59.986829;189
+GR624;GR624;Meliaceae;Carapa guianensis Aubl.;DIR - C;-3.094971;-59.98763;190
+GR346;GR346;Arecaceae;Euterpe precatoria Mart.;Trilha - Ia;;;191
+CD026-1;CD026;Leguminosae-pap;Swartzia corrugata Benth.;DIR - E;-3.095052;-59.988118;192
+GR610;GR610;Meliaceae;Carapa guianensis Aubl.;Trilha - XI;-3.096432;-59.987182;193
+CD273;CD273;Myristicaceae;Compsoneura ulei Warb.;MAQ - C;;;194
+GR507-1;GR507;Rubiaceae;Genipa americana L.;SAU - C;-3.09429;-59.987953;195
+ND262-1;ND262;Burseraceae;Protium;Trilha - VIIIb;-3.09682;-59.986762;196
+GR260;GR260;Lecythidaceae;Lecythis;Trilha - VIIIa;;;197
+CP12;CP12;Meliaceae;Swietenia macrophylla King;CCCI - A;-3.095739;-59.986631;198
+LF17;LF17;Melastomataceae;Indet.;Trilha - V;-3.099208;-59.985489;199
+GR599;GR599;Erythroxylaceae;Indet.;ILHA - Incubadora;-3.09627;-59.987912;200
+CD258;CD258;Leguminosae-caes;Bauhinia rutilans Spruce ex Benth.;MAQ - D;;;201
+PLANT008;PLANT008;Anacardiaceae;Tapirira guianensis Aubl.;Trilha - X;-3.0955833;-59.9862683;202
+GR184;GR184;Polygonaceae;Coccoloba;Trilha - VIIIb;-3.0969217;-59.9865133;203
+GR692;GR692;Moraceae;Artocarpus heterophyllus Lam.;Jardin 2;-3.09607;-59.988677;204
+CD332-1;CD332;Gentianaceae;Potalia amara Aubl.;Jardin 5;;;205
+GR558;GR558;Meliaceae;Carapa guianensis Aubl.;ILHA - B;-3.096161;-59.986365;206
+GR221;GR221;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIIb;-3.09677;-59.9863467;207
+GR553;GR553;Urticaceae;Cecropia;BOT - H;-3.095481;-59.986721;208
+CD259-1;CD259;Leguminosae-mim;Pithecellobium racemosum (Ducke) Killip;MAQ - H;-3.0968;-59.987765;209
+GR402;GR402;Metteniusaceae;Poraqueiba sericea Tul.;Trilha - Va;;;210
+GR133;GR133;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Trilha - VIIIb;-3.09639;-59.98636;211
+CD092;CD092;Sapotaceae;Pouteria caimito (Ruiz & Pav.) Radlk.;Canteiro - A;-3.09422;-59.988357;212
+GR263;GR263;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIa;;;213
+GR642;GR642;Annonaceae;Guatteria;SAU - E;-3.094417;-59.988633;214
+GR247;GR247;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - VIIIb;-3.09684;-59.98665;215
+CD056-1;CD056;Anacardiaceae;Tapirira guianensis Aubl.;Jardin 5;;;216
+GR461;GR461;Chrysobalanaceae;Licania;Trilha - VIIb;-3.0974667;-59.9855017;217
+GR473;GR473;Dichapetalaceae;Tapura guianensis Aubl.;Trilha - VIIb;-3.0970367;-59.985705;218
+GR177;GR177;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.0968183;-59.9865383;219
+GR443;GR443;Anacardiaceae;Tapirira guianensis Aubl.;Trilha - VIIa;-3.0975915;-59.9854466;220
+GR515;GR515;Clusiaceae;Garcinia macrophylla Mart.;ADM - E;-3.094196;-59.989048;221
+CD176;CD176;Humiriaceae;Endopleura uchi (Huber) Cuatrec.;Jardin 5;;;222
+GR466;GR466;Leguminosae-mim;Inga heterophylla Willd.;Trilha - VIIb;-3.0972617;-59.9855667;223
+GR598;GR598;Burseraceae;Protium unifoliolatum Engl.;BOT - A;-3.095422;-59.986787;224
+GR287;GR287;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;Trilha - Ve;-3.0971917;-59.9866067;225
+CD251-1;CD251;Annonaceae;Guatteria procera R.E.Fr.;Jardin 2;;;226
+GR318;GR318;Meliaceae;Cedrella odorata L.;Trilha - VIa;-3.0971167;-59.9871717;227
+CD239;CD239;Moraceae;Clarisia;MAQ - D;;;228
+CD131;CD131;Moraceae;Perebea mollis (Poepp. & Endl.) Huber;QPN - A;-3.096289;-59.988266;229
+GR675;GR675;Clusiaceae;Garcinia;CPPN - C;-3.096437;-59.988053;230
+GR046;GR046;Bignoniaceae;Mansoa alliacea (Lam.) A.H.Gentry;Trilha - IIc;-3.100067;-59.984843;231
+GR409;GR409;Leguminosae-mim;Inga alba (Sw.) Willd.;Trilha - IIb;-3.09925;-59.9850083;232
+GR655;GR655;Leguminosae-caes;Cenostigma tocantinum Ducke;DICAP - B;-3.094902;-59.987021;233
+GR029;GR029;Annonaceae;Annona foetida Mart.;Trilha - VIa;-3.097389;-59.987345;234
+GR024-1;GR024;Siparunaceae;Siparuna guianensis Aubl.;DIR - G;-3.094693;-59.987424;235
+GR451;GR451;Annonaceae;Bocageopsis multiflora (Mart.) R.E.Fr.;Trilha - IV;-3.0978683;-59.9856167;236
+GR126;GR126;Rubiaceae;Genipa americana L.;Jardin 2;-3.095773;-59.988905;237
+LF15;LF15;Melastomataceae;Indet.;Trilha - V;-3.099195;-59.985322;238
+LF25;LF25;Melastomataceae;Indet.;Trilha - V;-3.098009;-59.985968;239
+CD332-2;CD332;Gentianaceae;Potalia amara Aubl.;MAQ - D;;;240
+CD142;CD142;Chrysobalanaceae;Licania;Trilha - VIIIb;;;241
+GR282;GR282;Lythraceae;Physocalymma scaberrimum Pohl;Trilha - Ve;-3.097275;-59.986555;242
+ND297;ND297;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;Trilha - VIIIb;-3.096962;-59.98685;243
+CD07-1;CD07;Anacardiaceae;Mangifera indica L.;ADM - I;-3.094596;-59.989636;244
+GR180;GR180;Elaeocarpaceae;Sloanea;Trilha - VIIIb;-3.0968367;-59.986505;245
+CD125;CD125;Arecaceae;Bactris gasipaes Kunth;Trilha - VIIIb;;;246
+ND172;ND172;Myristicaceae;Compsoneura ulei Warb.;Trilha - VIIIb;-3.096717;-59.986659;247
+GR437;GR437;Leguminosae-mim;Inga edulis Mart.;Trilha - IIa;-3.0977733;-59.9853133;248
+ND339;ND339;Lythraceae;Physocalymma scaberrimum Pohl;Trilha - VIIIb;-3.097076;-59.986709;249
+GR160;GR160;Lecythidaceae;Eschweilera wachenheimii (Benoist) Sandwith;Trilha - VIa;;;250
+GR152;GR152;Leguminosae-caes;Cassia grandis L.;Jardin 2;-3.095904;-59.988728;251
+GR140;GR140;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;Trilha - IIId;-3.097514;-59.984937;252
+GR032-1;GR032;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Jardin 8;-3.094526;-59.987021;253
+GR070;GR070;Myrtaceae;Eugenia stipitata McVaugh;Jardin 2;-3.09601;-59.988207;254
+LF26;LF26;Melastomataceae;Indet.;Trilha - Ic;-3.101;-59.98528;255
+GR015;GR015;Araceae;Philodendron maximum K.Krause;Jardin 5;-3.095719;-59.987241;256
+CD181-1;CD181;Simaroubaceae;Simarouba amara Aubl.;Trilha - VIIIb;-3.096725;-59.986756;257
+CD204;CD204;Myrtaceae;Eugenia patrisii Vahl;DIR - D;-3.094883;-59.988021;258
+INPA4;INPA4;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;Jardin 10;-3.099272;-59.984877;259
+GR325;GR325;Strelitziaceae;Phenakospermum guyannense (Rich.) Endl. ex Miq.;Trilha - VIa;;;260
+GR01;GR01;Cucurbitaceae;Helmontia leptantha (Schltdl.) Cogn.;Trilha - IIa;-3.098165;-59.984953;261
+GR588;GR588;Bignoniaceae;Handroanthus;BOT - C;-3.095329;-59.987177;262
+GR435;GR435;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Trilha - IIa;-3.09778;-59.98527;263
+GR174;GR174;Sapindaceae;Cupania scrobiculata Rich.;Trilha - VIIIb;-3.0967967;-59.9866233;264
+GR503;GR503;Meliaceae;Swietenia macrophylla King;DIR - B;-3.095247;-59.987859;265
+GR679;GR679;Myrtaceae;Psidium;MAQ - F;-3.097136;-59.987582;266
+GR450;GR450;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - IV;-3.0978633;-59.985585;267
+CD05-2;CD05;Arecaceae;Astrocaryum aculeatum G.Mey.;BOT - E;-3.095143;-59.98723;268
+GR689;GR689;Leguminosae;Indet.;GALP - B;-3.095577;-59.988456;269
+ND337;ND337;Malvaceae;Quararibea cordata (Bonpl.) Visher;Trilha - VIIIb;-3.09708;-59.986603;270
+GR336;GR336;Anacardiaceae;Spondias mombin L.;Trilha - Ia;;;271
+GR017-1;GR017;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;CCCI - A;-3.095844;-59.986688;272
+GR538;GR538;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;BOT - E;-3.095397;-59.987314;273
+GR081;GR081;Araceae;Philodendron josephii;BOT - E;-3.095319;-59.9871;274
+GR539;GR539;Lecythidaceae;Indet.;BOT - J;-3.095562;-59.987645;275
+GR685;GR685;Rubiaceae;Genipa americana L.;GALP - C;-3.095352;-59.989129;276
+GR431;GR431;Leguminosae-mim;Inga heterophylla Willd.;Trilha - IIa;-3.09805;-59.9851033;277
+CD030;CD030;Clusiaceae;Rheedia macrophylla (Mart.) Planch. & Triana;Jardin 3;;;278
+PLANT006;PLANT006;Burseraceae;Trattinnickia;Jardin 9;;;279
+GR628;GR628;Indet.;Indet.;DIR - C;-3.095141;-59.987576;280
+GR192;GR192;Lecythidaceae;Eschweilera coriacea (DC.) S.A.Mori;Trilha - VIIIb;-3.0969367;-59.986645;281
+GR233;GR233;Rubiaceae;Coffea arabica Benth.;Trilha - VIIIb;-3.0969133;-59.98638;282
+CD251-2;CD251;Annonaceae;Guatteria procera R.E.Fr.;MAUA - A;-3.097604;-59.986696;283
+GR644;GR644;Meliaceae;Cedrela;SAU - E;-3.094541;-59.98861;284
+CD064-1;CD064;Leguminosae-mim;Calliandra surinamensis Benth.;CdC - D;;;285
+CD162-1;CD162;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;DIR - G;-3.094805;-59.987541;286
+CD280-1;CD280;Burseraceae;Protium;Jardin 1;;;287
+CD153;CD153;Burseraceae;Protium insigne (Triana & Planch.) Engl.;Jardin 1;;;288
+ND243;ND243;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - VIIIb;-3.096862;-59.986378;289
+ND136;ND136;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;Trilha - VIIIb;-3.097518;-59.986704;290
+GR267;GR267;Myrtaceae;Syzygium malaccense (L.) Merr. & L.M.Perry;Trilha - VIIIa;;;291
+CD059-1;CD059;Leguminosae-mim;Inga edulis Mart.;Jardin 2;;;292
+GR041;GR041;Hypericaceae;Vismia;DICAP - C;-3.094596;-59.9869;293
+GR393;GR393;Sapindaceae;Toulicia pulvinata Radlk.;Trilha - Va;;;294
+GR292;GR292;Meliaceae;Carapa guianensis Aubl.;Trilha - Ve;-3.0971317;-59.986835;295
+CD044-1;CD044;Lecythidaceae;Holopyxidium;DIR - H;-3.094604;-59.987788;296
+GR643;GR643;Anacardiaceae;Mangifera indica L.;SAU - C;-3.094526;-59.988675;297
+CD140-1;CD140;Sapindaceae;Paullinia cupana var. sorbilis (Mart.) Ducke;CdC - B;-3.097079;-59.986612;298
+GR552;GR552;Leguminosae-caes;Cassia;DIR - C;-3.095053;-59.987673;299
+GR686;GR686;Anacardiaceae;Mangifera indica L.;GALP - C;-3.095364;-59.989133;300
+INPA2;INPA2;Combretaceae;Buchenavia huberi Ducke;Trilha - VIIIb;-3.096684;-59.986343;301
+GR251;GR251;Ebenaceae;Diospyros;Trilha - VIIIb;-3.0964983;-59.9866267;302
+GR593;GR593;Arecaceae;Oenocarpus bacaba Mart.;CCCI - D;-3.095605;-59.986646;303
+CD086;CD086;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;Jardin 1;;;304
+GR595;GR595;Moraceae;Artocarpus heterophyllus Lam.;MAUA - A;-3.096308;-59.986625;305
+ND397;ND397;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Trilha - VIIIb;-3.097245;-59.986317;306
+GR463;GR463;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIb;-3.0973469;-59.9854781;307
+GR414;GR414;Melastomataceae;Miconia poeppigii Triana;Trilha - IIb;-3.09912;-59.9848583;308
+GR464;GR464;Leguminosae-mim;Inga alba (Sw.) Willd.;Trilha - VIIb;-3.0973333;-59.9854833;309
+CD216-1;CD216;Arecaceae;Bactris;Jardin 2;;;310
+GR305;GR305;Arecaceae;Euterpe precatoria Mart.;Trilha - Vc;;;311
+GR311;GR311;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIa;-3.0969833;-59.9870467;312
+GR157;GR157;Annonaceae;Annona mucosa Jacq.;Trilha - IX;-3.095956;-59.987008;313
+GR102-1;GR102;Leguminosae-caes;Hymenaea;Trilha - VIIIb;-3.097404;-59.986247;314
+ND213;ND213;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;-3.096681;-59.986557;315
+CD248-1;CD248;Ebenaceae;Diospyros;Jardin 1;;;316
+LF22;LF22;Melastomataceae;Indet.;Trilha - V;-3.099314;-59.985535;317
+CD309-1;CD309;Leguminosae-caes;Cynometra;BOT - E;-3.095237;-59.987252;318
+GR587;GR587;Leguminosae-caes;Cenostigma tocantinum Ducke;BOT - E;-3.095189;-59.987268;319
+ND384;ND384;Moraceae;Brosimum guianense (Aubl.) Huber;Trilha - VIIIb;-3.097044;-59.986343;320
+GR479;GR479;Myrtaceae;Eugenia patrisii Vahl;DIR - C;-3.095128;-59.987905;321
+ND357-1;ND357;Meliaceae;Carapa guianensis Aubl.;Trilha - VIIIb;-3.096159;-59.98638;322
+GR619;GR619;;Indet.;INCUB - A;-3.096029;-59.98784;323
+CD311;CD311;Rubiaceae;Randia;Trilha - VIIIb;;;324
+GR676;GR676;Arecaceae;Indet.;DIR - C;-3.094958;-59.987892;325
+CD101-1;CD101;Lecythidaceae;Bertholletia excelsa Bonpl.;ADM - E;-3.094224;-59.989124;326
+GR565;GR565;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;QUIAM - A;-3.096099;-59.98816;327
+CD026-2;CD026;Leguminosae-pap;Swartzia corrugata Benth.;DIR - G;-3.095071;-59.987387;328
+CD140-2;CD140;Sapindaceae;Paullinia cupana var. sorbilis (Mart.) Ducke;Trilha - VIIIb;;;329
+GR436;GR436;Arecaceae;Euterpe oleracea Mart.;Trilha - IIa;-3.09782;-59.9852867;330
+CD085-2;CD085;Meliaceae;Swietenia macrophylla King;CdC - B;;;331
+ND329;ND329;Combretaceae;Buchenavia parvifolia Ducke;Trilha - VIIIb;-3.097159;-59.986809;332
+GR617;GR617;Sapotaceae;Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.;BOT - J;-3.095589;-59.987865;333
+GR291;GR291;Leguminosae-caes;Dialium guianense (Aubl.) Sandwith;Trilha - Ve;-3.09713;-59.986675;334
+GR200;GR200;Meliaceae;Guarea silvatica C.DC.;Trilha - VIIIb;-3.0967233;-59.9866067;335
+CD248-2;CD248;Ebenaceae;Diospyros;Jardin 2;;;336
+GR699;GR699;Malvaceae;Ceiba pentandra (L.) Gaertn.;BOT - H;-3.095682;-59.986888;337
+CD213;CD213;Dichapetalaceae;Tapura guianensis Aubl.;CdC - B;;;338
+GR547;GR547;Vochysiaceae;Qualea paraensis Ducke;Trilha - VIIIb;-3.096481;-59.986189;339
+GR415;GR415;Malpighiaceae;Byrsonima;Trilha - IIb;-3.0990867;-59.9848233;340
+CD178-2;CD178;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;Jardin 5;;;341
+CD294;CD294;Rubiaceae;Randia armata (Sw.) DC.;Jardin 1;;;342
+PLANT020;PLANT020;Meliaceae;Swietenia macrophylla King;CPPN - C;-3.0964767;-59.9878933;343
+GR469;GR469;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Trilha - VIIb;-3.0971533;-59.98563;344
+GR07;GR07;Araceae;Philodendron tortum M.L.Soares & Mayo;DIR - B;-3.095243;-59.987804;345
+LF19;LF19;Melastomataceae;Indet.;Trilha - V;-3.099232;-59.985485;346
+GR279;GR279;Meliaceae;Swietenia macrophylla King;Trilha - Ve;-3.0971317;-59.9865817;347
+GR016A;GR016A;Myristicaceae;Virola venosa (Benth.) Warb.;Campo - A;-3.094935;-59.986488;348
+ND128;ND128;Rubiaceae;Alibertia;Trilha - VIIIb;-3.096648;-59.986921;349
+GR172;GR172;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - VIIIb;-3.0967894;-59.9866216;350
+GR710;GR710;Malvaceae;Ceiba pentandra (L.) Gaertn.;BOT - H;-3.095674;-59.986882;351
+GR589;GR589;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;BOT - E;-3.095417;-59.987587;352
+GR442;GR442;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - IIa;-3.0976733;-59.9854567;353
+GR653;GR653;Arecaceae;Elaeis guineensis Jacq.;DICAP - A;-3.095052;-59.986843;354
+GR190;GR190;Burseraceae;Protium ferrugineum (Engl.) Engl.;Trilha - VIIIb;-3.09682;-59.9866383;355
+GR228;GR228;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;-3.09689;-59.9864517;356
+PLANT016;PLANT016;Anacardiaceae;Mangifera indica L.;Jardin 2;-3.0958006;-59.9884157;357
+CD242-1;CD242;Burseraceae;Trattinnickia glaziovii Swart;Jardin 2;;;358
+CD233-1;CD233;Leguminosae-pap;Swartzia;MAQ - H;-3.096766;-59.987508;359
+GR053;GR053;Poaceae;Bambusa;Trilha - Ic;-3.100591;-59.984216;360
+CD078;CD078;Moraceae;Clarisia;Jardin 3;;;361
+CD047-1;CD047;Malvaceae;Theobroma cacao L.;QUIAM - A;-3.09621;-59.98815;362
+CD264;CD264;Apocynaceae;Peschiera;MAQ - A;-3.097059;-59.98769;363
+GR237;GR237;Sapindaceae;Talisia esculenta (Cambess.) Radlk.;Trilha - VIIIb;-3.0970217;-59.98654;364
+GR304;GR304;Lecythidaceae;Lecythis;Trilha - Vc;;;365
+GR455;GR455;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - IV;-3.098175;-59.985755;366
+CD052;CD052;Hypericaceae;Vismia cayennensis (Jacq.) Pers.;Jardin 5;-3.095286;-59.987717;367
+GR320;GR320;Chrysobalanaceae;Hymenopus heteromorphus (Benth.) Sothers & Prance;Trilha - VIa;-3.0971983;-59.9872133;368
+GR297;GR297;Sapotaceae;Pouteria caimito (Ruiz & Pav.) Radlk.;Ilha - Auditório;-3.09727;-59.98636;369
+CD091-2;CD091;Burseraceae;Tetragastris;Jardin 3;;;370
+ND090;ND090;Elaeocarpaceae;Sloanea;Trilha - VIIIb;;;371
+GR061-1;GR061;Anacardiaceae;Anacardium occidentale L.;Jardin 10;;;372
+GR634;GR634;Anacardiaceae;Spondias mombin L.;Trilha - VIIIa;-3.096516;-59.986472;373
+CD183;CD183;Lauraceae;Aniba rosaeodora Ducke;Jardin 5;;;374
+GR181;GR181;Arecaceae;Oenocarpus bacaba Mart.;Trilha - VIIIb;-3.0968414;-59.9864964;375
+CD265;CD265;Myristicaceae;Virola venosa (Benth.) Warb.;MAQ - A;-3.097047;-59.987727;376
+GR309;GR309;Leguminosae-mim;Zygia racemosa (Ducke) Barneby & J.W.Grimes;Trilha - VIa;-3.0970017;-59.9869083;377
+GR0101-1;GR0101;Apocynaceae;Plumeria;Trilha - VIIIb;-3.097462;-59.986798;378
+GR620;GR620;Sapotaceae;Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.;BOT - J;-3.095445;-59.987667;379
+GR283;GR283;Arecaceae;Euterpe precatoria Mart.;Trilha - Ve;-3.0972817;-59.9866283;380
+GR095;GR095;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;Jardin 10;-3.098114;-59.984523;381
+CD144;CD144;Euphorbiaceae;Aparisthmium cordatum (A.Juss.) Baill.;Jardin 1;;;382
+CD298-1;CD298;Arecaceae;Euterpe precatoria Mart.;CdC - D;;;383
+CD068-1;CD068;Chrysobalanaceae;Acioa longipendula (Pilg.) Sothers & Prance;SAU - A;-3.094601;-59.988293;384
+GR141;GR141;Arecaceae;Mauritia flexuosa L.f.;Jardin 1;;;385
+GR097-1;GR097;Myrtaceae;Syzygium cumini (L.) Skeels;Jardin 6;-3.094434;-59.989246;386
+GR439;GR439;Myrtaceae;Eugenia stipitata McVaugh;Trilha - IIa;-3.097615;-59.985252;387
+CD249-1;CD249;Meliaceae;Guarea duckei C.DC.;Trilha - Ia;-3.097469;-59.987671;388
+CD314;CD314;Arecaceae;Oenocarpus bataua Mart.;Jardin 5;-3.095119;-59.987172;389
+ND333;ND333;Sapotaceae;Manilkara zapota (L.) P.Royen;Trilha - VIIIb;-3.097222;-59.986741;390
+GR155;GR155;Rubiaceae;Genipa americana L.;GALP - C;-3.095354;-59.989143;391
+GR178;GR178;Burseraceae;Protium rhoifolium (Benth.) Byng & Christenh.;Trilha - VIIIb;-3.096845;-59.9866;392
+GR697;GR697;Moraceae;Artocarpus heterophyllus Lam.;ADM - J;-3.094828;-59.989402;393
+GR277;GR277;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - Ve;;;394
+PLANT024;PLANT024;Myrtaceae;Syzygium cumini (L.) Skeels;ADM - I;-3.0946707;-59.9896069;395
+GR242;GR242;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.096925;-59.9865217;396
+GR111;GR111;Meliaceae;Cedrella odorata L.;CPPF - B;-3.094757;-59.988548;397
+CD253-1;CD253;Chrysobalanaceae;Licania;Jardin 2;;;398
+LF01;LF01;Melastomataceae;Indet.;Trilha - VIIIb;-3.096698;-59.986826;399
+GR169;GR169;Moraceae;Trymatococcus amazonicus Poepp. & Endl.;Trilha - VIIIb;-3.0968;-59.9864783;400
+GR225;GR225;Chrysobalanaceae;Moquilea tomentosa Benth.;Trilha - VIIIb;-3.0968167;-59.98626;401
+CD247-1;CD247;Moraceae;Brosimum;Jardin 1;;;402
+CD018-1;CD018;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;BOT - E;-3.095323;-59.987591;403
+GR334;GR334;Moraceae;Trymatococcus amazonicus Poepp. & Endl.;Trilha - VIb;-3.0974367;-59.9877767;404
+GR188;GR188;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.096865;-59.9866417;405
+ND263-2;ND263;Lecythidaceae;Eschweilera odora (Poepp. ex van den Berg) Miers;Trilha - VIIIb;-3.096985;-59.986819;406
+GR652;GR652;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;DICAP - C;-3.094582;-59.986882;407
+GR06-1;GR06;Araceae;Dracontium prancei G.H.Zhu & Croat;Jardin 6;-3.093904;-59.988855;408
+ND279;ND279;Lecythidaceae;Lecythis prancei S.A.Mori;Trilha - VIIIb;-3.09692;-59.986588;409
+GR703;GR703;Meliaceae;Carapa guianensis Aubl.;Trilha - IIIb;-3.099624;-59.984637;410
+GR201;GR201;Sapotaceae;Micropholis;Trilha - VIIIb;-3.096785;-59.9865767;411
+CD181-2;CD181;Simaroubaceae;Simarouba amara Aubl.;DIR - G;-3.094918;-59.987499;412
+CD168;CD168;Cochlospermaceae;Cochlospermum orinocense (Kunth) Steud.;CPPF - A;-3.095921;-59.988196;413
+GR668;GR668;Anacardiaceae;Mangifera indica L.;CPPF - B;-3.095061;-59.988588;414
+GR011-1;GR011;Bixaceae;Bixa orellana L.;Trilha - IIIc;-3.09822;-59.984582;415
+CD236-1;CD236;Sapindaceae;Vouarana guianensis Aubl.;Jardin 2;-3.096598;-59.987733;416
+CD031;CD031;Rubiaceae;Henriquezia;Jardin 3;;;417
+GR144;GR144;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Trilha - VIIIb;;;418
+GR067-1;GR067;Oxalidaceae;Averrhoa carambola L.;MAQ - G;-3.09703;-59.987588;419
+GR047;GR047;Annonaceae;Guatteria scytophylla Diels;Jardin 5;-3.095201;-59.987122;420
+GR202;GR202;Sapindaceae;Cupania scrobiculata Rich.;Trilha - VIIIb;-3.09674;-59.9865767;421
+GR208;GR208;Arecaceae;Euterpe precatoria Mart.;Trilha - VIIIb;-3.096675;-59.9865467;422
+CP40;CP40;;Indet.;Jardin 8;;;423
+CD253-2;CD253;Chrysobalanaceae;Licania;DIR - E;-3.094917;-59.98812;424
+CD257-1;CD257;Violaceae;Rinorea;MAQ - D;;;425
+ND355;ND355;Anacardiaceae;Spondias mombin L.;Trilha - VIIIb;-3.097136;-59.986392;426
+CD240-1;CD240;Rhizophoraceae;Sterigmapetalum obovatum Kuhlm.;Jardin 1;;;427
+CD090-2;CD090;Malvaceae;Ceiba pentandra (L.) Gaertn.;Campo - A;-3.094963;-59.986505;428
+CD259-2;CD259;Leguminosae-mim;Pithecellobium racemosum (Ducke) Killip;Jardin 2;;;429
+CD033;CD033;Achariaceae;Lindackeria paludosa (Benth.) Gilg;ADM - C;-3.094454;-59.989329;430
+GR672;GR672;Chrysobalanaceae;Licania tomentosa (Benth.) Fritsch;DICAP - B;-3.094701;-59.987166;431
+CD269-1;CD269;Sapindaceae;Talisia cerasina (Benth.) Radlk.;Jardin 1;;;432
+GR605;GR605;Sapotaceae;Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.;MAUA - C;-3.096402;-59.986893;433
+GR682;GR682;Annonaceae;Annona muricata L.;GALP - B;-3.095482;-59.988592;434
+LF09;LF09;Melastomataceae;Indet.;Trilha - IIb;-3.098738;-59.98481;435
+CD076;CD076;Leguminosae-mim;Inga obtusata Spruce ex Benth.;Jardin 3;;;436
+CD192;CD192;Rubiaceae;Coffea arabica Benth.;Jardin 3;;;437
+GR238;GR238;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.096995;-59.9865967;438
+ND208;ND208;Lecythidaceae;Lecythis lurida (Miers) S.A.Mori;Trilha - VIIIb;-3.096573;-59.986507;439
+CD223-1;CD223;Urticaceae;Pourouma acuminata Mart. ex Miq.;Jardin 2;;;440
+GR164;GR164;Leguminosae-mim;Parkia pendula (Willd.) Benth. ex Walp.;BOT - M;-3.095795;-59.987491;441
+CD290;CD290;Sapotaceae;Micropholis;Jardin 1;;;442
+CD247-2;CD247;Moraceae;Brosimum;Jardin 2;;;443
+CD100-1;CD100;Chrysobalanaceae;Licania;Jardin 6;-3.094164;-59.989068;444
+GR637-2;GR637;Clusiaceae;Garcinia;Trilha - VIIIb;-3.097486;-59.986504;445
+CD323;CD323;Annonaceae;Porcelia nitidifolia Ruiz & Pav.;Jardin 5;;;446
+GR150;GR150;Lecythidaceae;Bertholletia excelsa Bonpl.;Jardin 5;-3.095832;-59.987007;447
+GR253;GR253;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;-3.0965683;-59.9866483;448
+GR243;GR243;Burseraceae;Protium apiculatum Swart;Trilha - VIIIb;-3.0969017;-59.986625;449
+GR578;GR578;Leguminosae-pap;Dioclea;MPGAP - A;-3.096453;-59.987598;450
+CD260-2;CD260;Myristicaceae;Virola michelii Heckel;MAQ - C;;;451
+GR404;GR404;Anacardiaceae;Spondias mombin L.;Trilha - IIa;;;452
+CD301;CD301;Rutaceae;Citrus × limon (L.) Osbeck [2];CdC - C;;;453
+GR512;GR512;Lecythidaceae;Lecythis;BOT - B;-3.09546;-59.986929;454
+GR502;GR502;Anacardiaceae;Mangifera indica L.;DIR - B;-3.095258;-59.987823;455
+CD307;CD307;Leguminosae-pap;Andira;Jardin 2;;;456
+CD109;CD109;Annonaceae;Guatteria scytophylla Diels;Jardin 6;-3.093784;-59.988473;457
+GR659;GR659;Myristicaceae;Virola surinamensis (Rol. ex Rottb.) Warb.;DIR - A;-3.095307;-59.987735;458
+GR125-1;GR125;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;Trilha - VIIIb;-3.097097;-59.986903;459
+ND242;ND242;Moraceae;Trymatococcus turbinatus Ducke;Trilha - VIIIb;-3.096857;-59.986544;460
+GR224;GR224;Chrysobalanaceae;Moquilea tomentosa Benth.;Trilha - VIIIb;-3.09683;-59.986285;461
+GR011-2;GR011;Bixaceae;Bixa orellana L.;Trilha - VIIIb;-3.097479;-59.986798;462
+CD090-3;CD090;Malvaceae;Ceiba pentandra (L.) Gaertn.;ADM - B;-3.09456;-59.989424;463
+GR239;GR239;Arecaceae;Euterpe precatoria Mart.;Trilha - VIIIb;-3.0970333;-59.9866083;464
+CD336-2;CD336;Arecaceae;Attalea attaleoides (Barb.Rodr.) Wess.Boer;BOT - C;-3.09531;-59.987084;465
+GR509;GR509;Meliaceae;Swietenia macrophylla King;DIR - B;-3.095295;-59.987851;466
+CD298-2;CD298;Arecaceae;Euterpe precatoria Mart.;Jardin 1;;;467
+CD214-1;CD214;Clusiaceae;Clusia;CdC - B;;;468
+GR627;GR627;Oxalidaceae;Averrhoa carambola L.;DIR - C;-3.095207;-59.98756;469
+GR611;GR611;Malvaceae;Ceiba pentandra (L.) Gaertn.;DIR - B;-3.095446;-59.987829;470
+GR058;GR058;Myrtaceae;Eugenia uniflora L.;GALP - B;-3.09546;-59.98841;471
+GR704;GR704;Leguminosae-mim;Inga edulis Mart.;Trilha - IIIa;-3.099406;-59.983977;472
+CD224-2;CD224;Leguminosae-caes;Cassia grandis L.;Jardin 2;;;473
+GR09-1;GR09;Leguminosae-caes;Caesalpinia ferrea Mart.;GALP - C;-3.095418;-59.98876;474
+GR134;GR134;Malvaceae;Ceiba pentandra (L.) Gaertn.;Jardin 10;-3.100226;-59.985128;475
+GR432;GR432;Moraceae;Brosimum rubescens Taub.;Trilha - IIa;-3.097905;-59.985171;476
+GR097-2;GR097;Myrtaceae;Syzygium cumini (L.) Skeels;ADM - C;-3.094327;-59.989232;477
+GR203;GR203;Leguminosae-pap;Dipteryx punctata (Blake) Amshoff;Trilha - VIIIb;;;478
+CD186;CD186;Leguminosae-mim;Cedrelinga cateniformis (Ducke) Ducke;Jardin 5;;;479
+GR158;GR158;Annonaceae;Annona mucosa Jacq.;DIR - E;;;480
+GR149;GR149;Lecythidaceae;Bertholletia excelsa Bonpl.;QUIAM - B;-3.09607;-59.988696;481
+GR629;GR629;Lauraceae;Ocotea guianensis Aubl.;DIR - G;;;482
+CD014-2;CD014;Sapotaceae;Pouteria manaosensis (Aubrév. & Pellegr.) T.D.Penn.;ADM - A;-3.094538;-59.988824;483
+GR231;GR231;Myrtaceae;Eugenia stipitata McVaugh;Trilha - VIIIb;-3.096945;-59.9863333;484
+PLANT023;PLANT023;Myrtaceae;Indet.;ADM - I;-3.0946667;-59.989575;485
+GR666;GR666;Leguminosae-caes;Cenostigma tocantinum Ducke;BOT - G;-3.09529;-59.986628;486
+GR040-2;GR040;Myrtaceae;Myrcia falax;BOT - I;-3.095633;-59.987031;487
+GR219;GR219;Leguminosae-pap;Swartzia schomburgkii Benth.;Trilha - VIIIb;-3.096735;-59.9864033;488
+CD250-1;CD250;Lecythidaceae;Eschweilera odora (Poepp. ex van den Berg) Miers;Jardin 1;;;489
+CD250-2;CD250;Lecythidaceae;Eschweilera odora (Poepp. ex van den Berg) Miers;Jardin 2;;;490
+GR125-2;GR125;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;Trilha - VIIIb;-3.097226;-59.986461;491
+CD162-2;CD162;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIb;;;492
+GR067-2;GR067;Oxalidaceae;Averrhoa carambola L.;MAQ - G;-3.097026;-59.987602;493
+CD059-2;CD059;Leguminosae-mim;Inga edulis Mart.;Trilha - VIIIb;;;494
+CP38;CP38;;Indet.;Jardin 8;;;495
+GR340;GR340;Myristicaceae;Virola venosa (Benth.) Warb.;Trilha - Ia;;;496
+GR102-2;GR102;Leguminosae-caes;Hymenaea;SAU - D;-3.094379;-59.988445;497
+CD227-1;CD227;Urticaceae;Pourouma;Jardin 2;;;498
+GR245;GR245;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.096905;-59.986715;499
+GR129;GR129;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.096162;-59.986513;500
+CD302-1;CD302;Sapotaceae;Manilkara zapota (L.) P.Royen;BOT - G;-3.095172;-59.986687;501
+CD043-3;CD043;Leguminosae-caes;Dialium guianense (Aubl.) Sandwith;Trilha - VIIIb;;;502
+INPA08;INPA08;Urticaceae;Cecropia hololeuca Miq.;Trilha - VIIIb;;;503
+GR632;GR632;Indet;Indet.;Trilha - X;;;504
+GR037;GR037;Euphorbiaceae;Jatropha curcas L.;GALP - B;-3.095349;-59.988423;505
+CD240-2;CD240;Rhizophoraceae;Sterigmapetalum obovatum Kuhlm.;MAQ - D;;;506
+GR285;GR285;Lythraceae;Physocalymma scaberrimum Pohl;Trilha - Ve;-3.09728;-59.9866633;507
+GR543;GR543;Sapotaceae;Pouteria;BOT - E;-3.095443;-59.987663;508
+GR051;GR051;Malpighiaceae;Malpighia emarginata DC.;MAUA - A;-3.096366;-59.98668;509
+GR407-1;GR407;Cochlospermaceae;Cochlospermum orinocense (Kunth) Steud.;Trilha - IIa;;;510
+CD278-2;CD278;Malvaceae;Theobroma sylvestre Mart.;BOT - E;-3.095376;-59.987567;511
+PLANT012;PLANT012;Indet.;Indet.;CCCI - A;-3.0957494;-59.9866444;512
+CD244;CD244;Arecaceae;Astrocaryum ferrugineum F.Kahn & Millán;MAQ - D;;;513
+GR486;GR486;Annonaceae;Annona mucosa Jacq.;CPPN - A;-3.096552;-59.987727;514
+GR222;GR222;Chrysobalanaceae;Moquilea tomentosa Benth.;Trilha - VIIIb;-3.0967117;-59.9863533;515
+ND02;ND02;Moraceae;Trymatococcus turbinatus Ducke;MAQ - H;-3.097134;-59.987172;516
+CD038;CD038;Leguminosae-caes;Hymenaea courbaril L.;SAU - E;-3.094419;-59.988804;517
+GR185;GR185;Rubiaceae;Duroia;Trilha - VIIIb;-3.09686;-59.9865483;518
+GR603;GR603;Leguminosae-mim;Inga;BOT - G;-3.095123;-59.986791;519
+GR606;GR606;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;BOT - I;-3.095598;-59.987426;520
+CD011-1;CD011;Myrtaceae;Syzygium cumini (L.) Skeels;SAU - B;-3.094595;-59.988122;521
+CD141;CD141;Leguminosae-pap;Pterocarpus;Jardin 4;;;522
+GR569;GR569;Leguminosae-mim;Inga;BOT - A;-3.095443;-59.98672;523
+GR440;GR440;Leguminosae-caes;Cenostigma tocantinum Ducke;Trilha - IIa;-3.0974117;-59.9853467;524
+GR038-2;GR038;Oxalidaceae;Averrhoa bilimbi L.;BOT - G;-3.095289;-59.986952;525
+GR223;GR223;Chrysobalanaceae;Moquilea tomentosa Benth.;Trilha - VIIIb;-3.096865;-59.9862783;526
+GR496;GR496;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;DIR - A;-3.095228;-59.987583;527
+CD234;CD234;Rosaceae;Prunus myrtifolia (L.) Urb.;Jardin 2;;;528
+CD267;CD267;Burseraceae;Dacryodes;MAQ - A;-3.097115;-59.987697;529
+GR604;GR604;Meliaceae;Carapa guianensis Aubl.;Trilha - X;-3.095348;-59.986414;530
+CD242-2;CD242;Burseraceae;Trattinnickia glaziovii Swart;MAQ - D;;;531
+CD310;CD310;Leguminosae-caes;Vouacapoua pallidior Ducke;Jardin 5;;;532
+GR073-2;GR073;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;CdC - E;-3.097525;-59.986532;533
+CD202-1;CD202;Apocynaceae;Lacmellea gracilis (Müll.Arg.) Markgr.;Jardin 5;;;534
+GR321;GR321;Sapindaceae;Toulicia pulvinata Radlk.;Trilha - VIa;-3.0972415;-59.9872211;535
+GR337;GR337;Leguminosae-mim;Inga edulis Mart.;Trilha - Ia;-3.097123;-59.987732;536
+ND204;ND204;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;;;537
+CD099-2;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;BOT - F;-3.095091;-59.987188;538
+GR523;GR523;Oxalidaceae;Averrhoa bilimbi L.;BOT - G;-3.095455;-59.988556;539
+CD263-1;CD263;Arecaceae;Oenocarpus;MAQ - A;;;540
+GR674;GR674;Meliaceae;Carapa guianensis Aubl.;Portaria - C;-3.094533;-59.98742;541
+ND214;ND214;Rubiaceae;Malanea;Trilha - VIIIb;-3.096797;-59.98654;542
+CD152-2;CD152;Myrtaceae;Myrcia falax;Jardin 1;;;543
+ND205;ND205;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;;;544
+GR527;GR527;Annonaceae;Indet.;BOT - F;-3.095203;-59.987159;545
+CD080;CD080;Leguminosae-pap;Dalbergia;Jardin 3;;;546
+GR182;GR182;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.0968733;-59.9866467;547
+ND262-2;ND262;Burseraceae;Protium;Trilha - VIIIa;-3.097026;-59.986551;548
+PLANT021;PLANT021;Leguminosae-mim;Inga;INCUB - A;-3.096196;-59.987848;549
+CD227-2;CD227;Urticaceae;Pourouma;Jardin 2;;;550
+GR028;GR028;Myrtaceae;Eugenia malaccensis L.;CPPF - A;-3.095692;-59.988163;551
+GR217;GR217;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;-3.096615;-59.9864883;552
+GR057;GR057;Violaceae;Paypayrola;BOT - J;-3.095577;-59.987654;553
+GR488;GR488;Leguminosae-mim;Inga;CPPN - A;-3.096536;-59.987754;554
+GR193;GR193;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.0968183;-59.9864583;555
+CD317;CD317;Leguminosae-mim;Parkia oppositifolia Spruce ex Benth.;BOT - G;-3.095172;-59.986699;556
+GR314;GR314;Burseraceae;Trattinnickia rhoifolia Willd.;Trilha - VIa;-3.0970351;-59.986979;557
+GR127;GR127;Lythraceae;Physocalymma scaberrimum Pohl;DIR - A;-3.095275;-59.987606;558
+GR524;GR524;Annonaceae;Annona;BOT - F;-3.095086;-59.987185;559
+ND324;ND324;Anacardiaceae;Mangifera indica L.;Trilha - XI;-3.097092;-59.986865;560
+GR062;GR062;Verbenaceae;Lantana camara L.;Trilha - IIIa;-3.099351;-59.983984;561
+CD269-2;CD269;Sapindaceae;Talisia cerasina (Benth.) Radlk.;MAQ - C;-3.097231;-59.98793;562
+PLANT019;PLANT019;Meliaceae;Swietenia macrophylla King;Jardin 2;-3.0964454;-59.9882705;563
+CD291;CD291;Sapotaceae;Micropholis;Jardin 1;;;564
+PLANT009;PLANT009;Clusiaceae;Indet.;CCCI - A;-3.0955776;-59.986628;565
+GR701;GR701;Myrtaceae;Eugenia patrisii Vahl;Trilha - IIb;;;566
+GR293;GR293;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Ilha - Auditório;-3.09712;-59.9864733;567
+ND190;ND190;Malvaceae;Ceiba pentandra (L.) Gaertn.;Trilha - VIIIa;-3.096559;-59.986624;568
+ND343;ND343;Myrtaceae;Eugenia stipitata McVaugh;CdC - B;-3.097195;-59.986633;569
+GR429;GR429;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - IIa;-3.0980467;-59.9850633;570
+CD223-2;CD223;Urticaceae;Pourouma acuminata Mart. ex Miq.;Jardin 4;;;571
+GR094-1;GR094;Acanthaceae;Sanchezia parvibracteata Sprague & Hutch.;DIR - I;-3.094752;-59.987947;572
+LF28;LF28;Melastomataceae;Indet.;Trilha - Ic;-3.10072;-59.98455;573
+GR453;GR453;Lauraceae;Ocotea;Trilha - IV;-3.09803;-59.985755;574
+PLANT011;PLANT011;Malvaceae;Ceiba pentandra (L.) Gaertn.;CCCI - A;-3.0956801;-59.9866249;575
+CD313;CD313;Sapotaceae;Piresodendron ucuqui (Pires & Schult.) Aubrév.;Jardin 5;;;576
+CD285;CD285;Malvaceae;Sterculia elata Ducke;Jardin 1;;;577
+CD337;CD337;Sapotaceae;Chrysophyllum durifructum (W.A.Rodrigues) T.D.Penn.;BOT - E;-3.095354;-59.987305;578
+ND301;ND301;Lecythidaceae;Holopyxidium;Trilha - VIIIa;;;579
+CD211;CD211;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - VIIIb;;;580
+INPA07;INPA07;Leguminosae-mim;Enterolobium schomburgkii (Benth.) Benth.;CPPF - B;-3.094769;-59.988326;581
+GR586;GR586;Leguminosae-pap;Dioclea;DIR - E;-3.094782;-59.988095;582
+GR400;GR400;Annonaceae;Annona insignis R.E.Fr.;Trilha - Va;;;583
+GR475;GR475;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Trilha - VIIa;-3.09676;-59.9861683;584
+GR054;GR054;Araceae;Philodendron renauxii Reitz;BOT - C;-3.095373;-59.987076;585
+CD249-2;CD249;Meliaceae;Guarea duckei C.DC.;Jardin 1;;;586
+CD295-1;CD295;Elaeocarpaceae;Sloanea;Jardin 1;;;587
+GR326;GR326;Polygonaceae;Coccoloba;Trilha - VIb;-3.097395;-59.98743;588
+GR407-2;GR407;Cochlospermaceae;Cochlospermum orinocense (Kunth) Steud.;Trilha - IIc;-3.099522;-59.9847;589
+GR148;GR148;Lecythidaceae;Bertholletia excelsa Bonpl.;Trilha - IIa;-3.097826;-59.985235;590
+CD119;CD119;Menispermaceae;Abuta grandifolia (Mart.) Sandwith;DIR - E;-3.095084;-59.988118;591
+GR338;GR338;Moraceae;Morus nigra L.;Trilha - Ia;;;592
+GR246;GR246;Annonaceae;Annona insignis R.E.Fr.;Trilha - VIIIb;-3.0969;-59.9866683;593
+GR621;GR621;Bignoniaceae;Handroanthus;BOT - E;;;594
+GR143;GR143;Malvaceae;Ceiba pentandra (L.) Gaertn.;MAUA - A;-3.096034;-59.986739;595
+GR457;GR457;Apocynaceae;Aspidosperma;Trilha - IV;-3.0982217;-59.9858633;596
+GR560;GR560;Annonaceae;Indet.;ILHA - B;-3.096153;-59.986489;597
+GR607;GR607;Malvaceae;Theobroma sylvestre Mart.;MAUA - C;-3.096303;-59.98699;598
+GR284;GR284;Myrtaceae;Eugenia stipitata McVaugh;Trilha - Ve;-3.0972217;-59.98666;599
+LF06;LF06;Melastomataceae;Indet.;Trilha - IIb;-3.098759;-59.984823;600
+CD018-2;CD018;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;MAUA - B;-3.096082;-59.986825;601
+CD287-1;CD287;Lecythidaceae;Holopyxidium;Jardin 1;;;602
+GR135;GR135;Sapotaceae;Manilkara zapota (L.) P.Royen;Trilha - IIIa;-3.098369;-59.984541;603
+GR684;GR684;Lauraceae;Persea americana Mill.;GALP - C;-3.095372;-59.989088;604
+CD274;CD274;Lauraceae;Dicypellium manausense W.A.Rodrigues;Jardin 1;;;605
+CD099-3;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;CPPF - A;-3.095764;-59.98837;606
+CD326;CD326;Rutaceae;Zanthoxylum;Jardin 5;;;607
+GR536;GR536;Lecythidaceae;Indet.;BOT - I;-3.095624;-59.987023;608
+CD071-1;CD071;Calophyllaceae;Calophyllum brasiliense Cambess.;Jardin 5;;;609
+GR04;GR04;Quiinaceae;Lacunaria jenmanii (Oliv.) Ducke;Trilha - VIIIb;-3.096718;-59.986613;610
+GR040-3;GR040;Myrtaceae;Myrcia falax;BOT - B;-3.09546;-59.987112;611
+CD07-2;CD07;Anacardiaceae;Mangifera indica L.;ADM - C;-3.094353;-59.989334;612
+GR406;GR406;Anacardiaceae;Anacardium occidentale L.;Trilha - IIa;;;613
+GR493;GR493;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;BOT - F;-3.095163;-59.986934;614
+GR173;GR173;Myristicaceae;Virola pavonis (A.DC.) A.C.Sm.;Trilha - VIIIb;-3.0968045;-59.9865679;615
+LF03;LF03;Melastomataceae;Indet.;Trilha - IIb;-3.099123;-59.98484;616
+GR033;GR033;Myrtaceae;Eugenia patrisii Vahl;Trilha - IIb;-3.099113;-59.984663;617
+GR613;GR613;Leguminosae-mim;Inga;ILHA - Incubadora;-3.095949;-59.987929;618
+GR299;GR299;Simaroubaceae;Simarouba amara Aubl.;Ilha - Auditório;-3.097235;-59.98629;619
+CD191;CD191;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;Trilha - IX;;;620
+GR324;GR324;Arecaceae;Euterpe oleracea Mart.;Trilha - VIa;-3.0972617;-59.98731;621
+CD268;CD268;Burseraceae;Protium;Jardin 1;;;622
+CD162-3;CD162;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;DIR - H;-3.094591;-59.987699;623
+GR695;GR695;Anacardiaceae;Mangifera indica L.;ADM - J;-3.094936;-59.989361;624
+GR09-2;GR09;Leguminosae-caes;Caesalpinia ferrea Mart.;MAUA - A;-3.096392;-59.986628;625
+GR330;GR330;Sapotaceae;Micropholis guyanensis (A.DC.) Pierre;Trilha - VIb;-3.0975017;-59.987655;626
+CD251-3;CD251;Annonaceae;Guatteria procera R.E.Fr.;MAUA - A;-3.09619;-59.986668;627
+CD257-2;CD257;Violaceae;Rinorea;Jardin 4;;;628
+GR328;GR328;Meliaceae;Cedrella odorata L.;Trilha - VIb;-3.0974467;-59.9874933;629
+GR322;GR322;Chrysobalanaceae;Licania;Trilha - VIa;-3.0973367;-59.987205;630
+LF08;LF08;Melastomataceae;Indet.;Trilha - IIa;-3.097909;-59.98521;631
+GR240;GR240;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.0970833;-59.9866017;632
+GR082;GR082;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;DIR - C;-3.095088;-59.987637;633
+GR650;GR650;Anacardiaceae;Spondias mombin L.;Campo - A;-3.095139;-59.986367;634
+GR214;GR214;Arecaceae;Euterpe precatoria Mart.;Trilha - VIIIb;-3.09666;-59.9865317;635
+GR430;GR430;Arecaceae;Syagrus inajai (Spruce) Becc.;Trilha - IIa;;;636
+GR660;GR660;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;DICAP - A;-3.095102;-59.986969;637
+CD331;CD331;Combretaceae;Combretum;Jardin 3;;;638
+CD245;CD245;Lecythidaceae;Couratari;Jardin 2;;;639
+GR124;GR124;Cactaceae;Selenicereus wittii (Schum.) Rowlee;BOT - C;-3.095355;-59.987244;640
+CD047-2;CD047;Malvaceae;Theobroma cacao L.;SAU - C;-3.094339;-59.988277;641
+GR671;GR671;Meliaceae;Carapa guianensis Aubl.;Portaria - A;-3.094653;-59.987272;642
+CD08-2;CD08;Arecaceae;Elaeis oleifera (Kunth) Cortés;DIR - C;-3.095019;-59.987607;643
+GR105;GR105;Leguminosae-pap;Centrosema;Jardin 11;-3.09878;-59.986973;644
+CD193-1;CD193;Leguminosae-caes;Bauhinia acreana Harms;Jardin 1;;;645
+GR673;GR673;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Portaria - C;-3.094508;-59.987314;646
+LF10;LF10;Melastomataceae;Indet.;Trilha - IV;-3.09778;-59.985394;647
+CD160;CD160;Myrtaceae;Myrcia;BOT - G;-3.095154;-59.986888;648
+CD064-2;CD064;Leguminosae-mim;Calliandra surinamensis Benth.;Jardin 5;;;649
+ND421;ND421;Lauraceae;Persea americana Mill.;CdC - D;-3.097416;-59.986487;650
+GR099;GR099;Acanthaceae;Justicia calycina (Nees) V.A.W.Graham;BOT - H;-3.095539;-59.986682;651
+CD101-2;CD101;Lecythidaceae;Bertholletia excelsa Bonpl.;DIR - C;-3.094833;-59.987691;652
+CD252-1;CD252;Loganiaceae;Strychnos;Jardin 2;;;653
+CD159;CD159;Burseraceae;Trattinnickia;Campo - B;-3.095379;-59.986327;654
+CD287-2;CD287;Lecythidaceae;Holopyxidium;Jardin 4;-3.096798;-59.987074;655
+CD281;CD281;Myrtaceae;Myrcia;Jardin 1;;;656
+GR397;GR397;Chrysobalanaceae;Licania;Trilha - Va;;;657
+CD075;CD075;Moraceae;Artocarpus heterophyllus Lam.;ADM - A;-3.094591;-59.988851;658
+CD047-3;CD047;Malvaceae;Theobroma cacao L.;Jardin 1;;;659
+CD019-1;CD019;Lecythidaceae;Holopyxidium jarana (Huber) Ducke;CPPF - B;-3.094772;-59.988405;660
+GR258;GR258;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIa;-3.0969273;-59.9867426;661
+GR398;GR398;Urticaceae;Pourouma villosa Trécul;Trilha - Va;;;662
+LF02;LF02;Melastomataceae;Indet.;Trilha - IIb;-3.099054;-59.984979;663
+GR329;GR329;Burseraceae;Trattinnickia;Trilha - VIb;-3.097398;-59.987593;664
+GR128;GR128;Meliaceae;Cedrella odorata L.;MAQ - E;-3.097124;-59.987272;665
+GR281;GR281;Meliaceae;Swietenia macrophylla King;Trilha - Ve;-3.0972933;-59.9865833;666
+CD140-3;CD140;Sapindaceae;Paullinia cupana var. sorbilis (Mart.) Ducke;DIR - A;-3.095269;-59.987681;667
+GR425;GR425;Annonaceae;Annona mucosa Jacq.;Trilha - IIa;-3.0982717;-59.98461;668
+CD221-2;CD221;Leguminosae-pap;Diplotropis rodriguesii H.C.Lima;Jardin 4;;;669
+GR468;GR468;Leguminosae-mim;Zygia racemosa (Ducke) Barneby & J.W.Grimes;Trilha - VIIb;-3.0972483;-59.9856117;670
+CD083-1;CD083;Myrtaceae;Psidium;Jardin 3;;;671
+CD230;CD230;Melastomataceae;Mouriri;Jardin 2;;;672
+GR032-2;GR032;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Jardin 5;-3.095177;-59.986921;673
+GR014;GR014;Araceae;Philodendron solimoesense A.C.Sm.;DIR - A;-3.095276;-59.987662;674
+CD252-2;CD252;Loganiaceae;Strychnos;Jardin 1;;;675
+GR446;GR446;Anacardiaceae;Tapirira guianensis Aubl.;Trilha - IIa;-3.09764;-59.9855083;676
+GR288;GR288;Lythraceae;Physocalymma scaberrimum Pohl;Trilha - Ve;-3.0971767;-59.9866167;677
+GR669;GR669;Myrtaceae;Syzygium jambos (L.) Alston;Campo - B;-3.095428;-59.986338;678
+GR319;GR319;Lecythidaceae;Eschweilera wachenheimii (Benoist) Sandwith;Trilha - VIa;-3.0970767;-59.9870867;679
+LF24;LF24;Melastomataceae;Indet.;Trilha - V;-3.097919;-59.986017;680
+GR708;GR708;Moraceae;Ficus citrifolia Mill.;Trilha - IIb;-3.099252;-59.98466;681
+ND393;ND393;Simaroubaceae;Simarouba amara Aubl.;Jardin 4;-3.097136;-59.986107;682
+CD261;CD261;Leguminosae-pap;Hymenolobium excelsum Ducke;MAQ - C;;;683
+CD164;CD164;Myristicaceae;Virola guggenheimii W.A.Rodrigues;Jardin 1;;;684
+GR118;GR118;Leguminosae-mim;Inga marginata Willd.;INCUB - A;-3.09607;-59.987802;685
+GR413;GR413;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;Trilha - IIa;-3.0991867;-59.9849033;686
+CD079;CD079;Rutaceae;Citrus;Jardin 3;;;687
+CD229-1;CD229;Solanaceae;Brugmansia suaveolens (Willd.) Bercht. & J.Presl;Jardin 2;;;688
+CD216-2;CD216;Arecaceae;Bactris;DIR - B;-3.095319;-59.987791;689
+GR067-3;GR067;Oxalidaceae;Averrhoa carambola L.;MAQ - B;-3.097069;-59.987868;690
+GR248;GR248;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIb;;;691
+GR08;GR08;Rubiaceae;Morinda citrifolia L.;CdC - D;-3.09748;-59.986523;692
+CD329;CD329;Simaroubaceae;Simarouba;Jardin 2;;;693
+ND281-1;ND281;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;Trilha - VIIIb;-3.09696;-59.986595;694
+CD193-2;CD193;Leguminosae-caes;Bauhinia acreana Harms;Jardin 5;;;695
+GR542;GR542;Leguminosae-pap;Dioclea;BOT - L;-3.095788;-59.986952;696
+GR633;GR633;Annonaceae;Guatteria;DICAP - A;-3.095023;-59.986805;697
+GR499-1;GR499;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;BOT - G;-3.095299;-59.986787;698
+CD254-1;CD254;Elaeocarpaceae;Sloanea;Jardin 2;;;699
+GR636;GR636;Meliaceae;Swietenia macrophylla King;DICAP - D;-3.095085;-59.986631;700
+GR700;GR700;Lecythidaceae;Bertholletia excelsa Bonpl.;QUIAM - B;-3.096167;-59.988566;701
+GR412;GR412;Meliaceae;Cedrella odorata L.;Trilha - IIa;-3.099165;-59.98482;702
+GR681;GR681;Anacardiaceae;Mangifera indica L.;GALP - B;-3.095513;-59.988439;703
+GR350;GR350;Malvaceae;Ceiba pentandra (L.) Gaertn.;Trilha - Ia;-3.096799;-59.987542;704
+GR534;GR534;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;CCCI - B;-3.095507;-59.986425;705
+CD292;CD292;Leguminosae-pap;Swartzia;Jardin 1;;;706
+GR394;GR394;Moraceae;Brosimum parinarioides Ducke;Trilha - Va;;;707
+CD279-1;CD279;Simaroubaceae;Simarouba;MAQ - D;-3.096913;-59.987973;708
+GR130;GR130;Malvaceae;Ceiba pentandra (L.) Gaertn.;Jardin 1;-3.096814;-59.98763;709
+CD084;CD084;Anacardiaceae;Anacardium occidentale L.;Jardin 2;;;710
+CD058;CD058;Moraceae;Ficus;Jardin 4;;;711
+GR262;GR262;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIa;-3.097049;-59.98679;712
+GR448;GR448;Leguminosae-mim;Inga alba (Sw.) Willd.;Trilha - IIa;-3.0977333;-59.9854767;713
+GR298;GR298;Chrysobalanaceae;Acioa longipendula (Pilg.) Sothers & Prance;Ilha - Auditório;-3.097295;-59.9863133;714
+GR153;GR153;Leguminosae-caes;Cassia grandis L.;Trilha - XI;-3.096523;-59.98704;715
+GR654-1;GR654;Sapotaceae;Indet.;DICAP - B;-3.094714;-59.987195;716
+CD202-2;CD202;Apocynaceae;Lacmellea gracilis (Müll.Arg.) Markgr.;Jardin 2;-3.095695;-59.98871;717
+CD045-1;CD045;Myrtaceae;Eugenia stipitata McVaugh;Canteiro - A;-3.094231;-59.988095;718
+CD283;CD283;Leguminosae-pap;Andira parviflora Ducke;Jardin 4;;;719
+CD02;CD02;Euphorbiaceae;Alchornea schomburgkii (Spreng.) Müll.Arg.;Jardin 4;;;720
+GR433;GR433;Melastomataceae;Miconia poeppigii Triana;Trilha - IIa;-3.0979317;-59.985295;721
+CD071-2;CD071;Calophyllaceae;Calophyllum brasiliense Cambess.;Jardin 3;-3.094466;-59.989592;722
+CD302-2;CD302;Sapotaceae;Manilkara zapota (L.) P.Royen;CdC - A;-3.097237;-59.986726;723
+CD219-1;CD219;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;DIR - B;-3.095326;-59.987778;724
+ND322;ND322;Sapindaceae;Paullinia cupana var. sorbilis (Mart.) Ducke;Jardin 4;-3.096811;-59.986787;725
+GR206;GR206;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIIb;;;726
+GR080;GR080;Lauraceae;Ocotea guianensis Aubl.;DIR - G;-3.094943;-59.987369;727
+CD147;CD147;Melastomataceae;Bellucia imperialis Saldanha & Cogn.;DICAP - D;-3.094893;-59.986698;728
+GR541;GR541;Myrtaceae;Myrcia falax;ADM101 -  A;-3.096412;-59.986371;729
+CD237;CD237;Lecythidaceae;Eschweilera longipes (Poit.) Miers;Jardin 2;;;730
+ND265;ND265;Malvaceae;Theobroma cacao L.;Jardin 4;;;731
+GR179;GR179;Burseraceae;Protium rhoifolium (Benth.) Byng & Christenh.;Trilha - VIIIb;-3.0967983;-59.9864533;732
+GR216;GR216;Leguminosae-pap;Cochliasanthus amazonum Mart. ex Benth.;Trilha - VIIIb;-3.0966317;-59.9865333;733
+GR108;GR108;Arecaceae;Bactris gasipaes Kunth;CPPN - C;-3.096359;-59.988048;734
+GR615;GR615;Annonaceae;Indet.;INCUB - A;;;735
+CD194-1;CD194;Arecaceae;Elaeis guineensis Jacq.;BOT - C;-3.095298;-59.987036;736
+GR315;GR315;Bignoniaceae;Jacaranda copaia (Aubl.) D.Don;Trilha - VIa;-3.0969887;-59.9869155;737
+CD333;CD333;Arecaceae;Iriartella setigera (Mart.) H.Wendl.;Jardin 4;;;738
+GR091;GR091;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;BOT - E;-3.095274;-59.987386;739
+GR265;GR265;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Trilha - VIIIa;;;740
+ND225;ND225;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;Trilha - VIIIb;-3.096897;-59.986551;741
+GR064;GR064;Leguminosae-pap;Dipteryx odorata (Aubl.) Forsyth f.;DICAP - B;-3.09454;-59.987063;742
+GR209;GR209;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;-3.0966733;-59.986535;743
+PLANT010;PLANT010;Anacardiaceae;Tapirira guianensis Aubl.;CCCI - A;-3.0956181;-59.9866038;744
+ND073;ND073;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Jardin 4;-3.096862;-59.987166;745
+CD293;CD293;Arecaceae;Geonoma spixiana Mart.;Jardin 1;;;746
+GR061-2;GR061;Anacardiaceae;Anacardium occidentale L.;Jardin 10;-3.099307;-59.984722;747
+GR065;GR065;Clusiaceae;Garcinia;Trilha - IIIa;-3.098621;-59.984282;748
+GR645;GR645;Meliaceae;Cedrela;SAU - D;-3.094384;-59.988559;749
+CD236-2;CD236;Sapindaceae;Vouarana guianensis Aubl.;Jardin 2;;;750
+CD254-2;CD254;Elaeocarpaceae;Sloanea;Jardin 2;;;751
+ND150;ND150;Arecaceae;Oenocarpus bacaba Mart.;MAUA - A;-3.096202;-59.986701;752
+GR183;GR183;Myristicaceae;Virola pavonis (A.DC.) A.C.Sm.;Trilha - VIIIb;-3.0970133;-59.9865317;753
+CD099-4;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;CPPF - A;-3.095863;-59.988177;754
+GR198;GR198;Myristicaceae;Virola pavonis (A.DC.) A.C.Sm.;Trilha - VIIIb;-3.0967383;-59.986595;755
+GR434;GR434;Lecythidaceae;Bertholletia excelsa Bonpl.;Trilha - IIa;-3.0978317;-59.9852667;756
+GR171;GR171;Moraceae;Helicostylis;Trilha - VIIIb;-3.0967817;-59.98655;757
+GR092;GR092;Arecaceae;Attalea attaleoides (Barb.Rodr.) Wess.Boer;Jardin 5;-3.095163;-59.986991;758
+GR687;GR687;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;GALP - C;-3.095369;-59.988932;759
+GR395;GR395;Annonaceae;Guatteria punctata (Aubl.) R.A.Howard;Trilha - Va;;;760
+CD073-1;CD073;Lecythidaceae;Lecythis zabucajo Aubl.;Jardin 1;;;761
+LF20;LF20;Melastomataceae;Indet.;Trilha - V;-3.099232;-59.985489;762
+GR416;GR416;Leguminosae-caes;Cassia grandis L.;Trilha - IIa;-3.0989683;-59.9848417;763
+GR030;GR030;Urticaceae;Cecropia leucocoma Miq.;DICAP - B;-3.094503;-59.986943;764
+GR113;GR113;Malvaceae;Pseudobombax;Jardin 10;-3.096365;-59.98564;765
+GR104;GR104;Malvaceae;Quararibea cordata (Bonpl.) Visher;Jardin 10;-3.100001;-59.984835;766
+CD094;CD094;Siparunaceae;Siparuna guianensis Aubl.;Jardin 6;-3.094067;-59.988723;767
+CD044-2;CD044;Lecythidaceae;Holopyxidium;Jardin 5;;;768
+GR255;GR255;Moraceae;Helicostylis scabra (J.F.Macbr.) C.C.Berg;Trilha - VIIIb;-3.0967233;-59.9867233;769
+GR016;GR016;Araceae;Philodendron distantilobum K.Krause;Jardin 4;-3.096827;-59.986748;770
+ND300;ND300;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIIa;-3.096935;-59.986789;771
+CD019-2;CD019;Lecythidaceae;Holopyxidium jarana (Huber) Ducke;MAQ - A;-3.097256;-59.987908;772
+GR465;GR465;Annonaceae;Bocageopsis multiflora (Mart.) R.E.Fr.;Trilha - VIIb;-3.0974117;-59.9855433;773
+CD099-5;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;DIR - A;-3.095259;-59.987677;774
+GR447;GR447;Arecaceae;Euterpe oleracea Mart.;Trilha - IIa;-3.097735;-59.9855217;775
+GR591;GR591;Leguminosae-caes;Cynometra;DIR - A;-3.095333;-59.987677;776
+GR120;GR120;Verbenaceae;Vitex triflora Vahl;Jardin 5;;;777
+CD229-2;CD229;Solanaceae;Brugmansia suaveolens (Willd.) Bercht. & J.Presl;Jardin 2;;;778
+ND080;ND080;Sapindaceae;Talisia cerasina (Benth.) Radlk.;Jardin 4;;;779
+GR205;GR205;Leguminosae-pap;Swartzia panacoco (Aubl.) R.S.Cowan;Trilha - VIIIb;-3.09681;-59.9864733;780
+CD280-2;CD280;Burseraceae;Protium;MAQ - D;;;781
+CD300;CD300;Combretaceae;Buchenavia parvifolia Ducke;Jardin 4;;;782
+CD140-4;CD140;Sapindaceae;Paullinia cupana var. sorbilis (Mart.) Ducke;BOT - E;-3.095193;-59.987259;783
+CD044-3;CD044;Lecythidaceae;Holopyxidium;Jardin 1;-3.09686;-59.987948;784
+GR438;GR438;Annonaceae;Annona mucosa Jacq.;Trilha - IIa;-3.0977417;-59.9852967;785
+CD305;CD305;Leguminosae-pap;Andira;Jardin 8;-3.095161;-59.986804;786
+CD282;CD282;Myrtaceae;Myrcia;Jardin 1;;;787
+GR693;GR693;Moraceae;Artocarpus heterophyllus Lam.;Jardin 2;-3.095655;-59.98887;788
+GR640;GR640;Arecaceae;Euterpe precatoria Mart.;CdC - D;-3.097338;-59.986426;789
+CD315;CD315;Leguminosae-caes;Eperua;BOT - F;-3.095153;-59.987116;790
+CD235;CD235;Lauraceae;Ocotea;Jardin 2;;;791
+GR094-2;GR094;Acanthaceae;Sanchezia parvibracteata Sprague & Hutch.;BOT - H;-3.095769;-59.986899;792
+GR458;GR458;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIIb;;;793
+ND209;ND209;Leguminosae-caes;Cassia grandis L.;Jardin 4;;;794
+ND327;ND327;Meliaceae;Carapa guianensis Aubl.;Jardin 4;-3.09713;-59.986748;795
+GR582;GR582;Leguminosae-pap;Dioclea;ILHA - Incubadora;-3.095965;-59.988049;796
+GR147;GR147;Lecythidaceae;Bertholletia excelsa Bonpl.;BOT - J;-3.095737;-59.98779;797
+CD194-2;CD194;Arecaceae;Elaeis guineensis Jacq.;Jardin 5;-3.095286;-59.986855;798
+GR499-2;GR499;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;BOT - G;-3.095295;-59.986774;799
+GR452;GR452;Leguminosae-pap;Andira;Trilha - IV;-3.0980433;-59.9857067;800
+GR616;GR616;Indet.;Indet.;INCUB - A;-3.09604;-59.987834;801
+GR230;GR230;Malvaceae;Theobroma cacao L.;Trilha - VIIIb;-3.096925;-59.9864383;802
+CD202-3;CD202;Apocynaceae;Lacmellea gracilis (Müll.Arg.) Markgr.;Jardin 5;-3.095025;-59.988117;803
+CD217;CD217;Myristicaceae;Virola surinamensis (Rol. ex Rottb.) Warb.;Jardin 5;;;804
+GR244;GR244;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.097195;-59.9869767;805
+GR706;GR706;Leguminosae-mim;Inga edulis Mart.;Trilha - IIIc;-3.098257;-59.984649;806
+CD068-2;CD068;Chrysobalanaceae;Acioa longipendula (Pilg.) Sothers & Prance;Jardin 4;;;807
+GR098;GR098;Achariaceae;Lindackeria paludosa (Benth.) Gilg;BOT - H;-3.095739;-59.986906;808
+GR535;GR535;Lecythidaceae;Indet.;QPN - A;-3.096252;-59.988303;809
+GR241;GR241;Goupiaceae;Goupia glaberrima Radlk.;Trilha - VIIIb;-3.0969517;-59.9866317;810
+ND272;ND272;Olacaceae;Ptychopetalum olacoides Benth.;Trilha - VIIIa;-3.09698;-59.986784;811
+GR670;GR670;Lecythidaceae;Bertholletia excelsa Bonpl.;Campo - B;-3.095303;-59.986387;812
+PLANT007;PLANT007;Anacardiaceae;Tapirira guianensis Aubl.;Jardin 9;-3.095575;-59.98626;813
+GR572;GR572;Lecythidaceae;Indet.;ADM101 -  A;-3.096421;-59.98631;814
+GR680;GR680;Anacardiaceae;Spondias mombin L.;MAUA - B;-3.096137;-59.986705;815
+ND070;ND070;Leguminosae-pap;Pterocarpus;MAQ - E;-3.097042;-59.987184;816
+GR215;GR215;Lecythidaceae;Lecythis;Trilha - VIIIb;-3.0966783;-59.9864933;817
+CD108-1;CD108;Meliaceae;Cedrella odorata L.;Jardin 6;-3.093729;-59.988608;818
+GR423;GR423;Arecaceae;Astrocaryum aculeatum G.Mey.;Trilha - IIa;-3.0983017;-59.9848567;819
+GR622;GR622;Annonaceae;Guatteria;DIR - G;-3.094981;-59.987512;820
+GR525;GR525;Lecythidaceae;Indet.;ILHA - Incubadora;-3.095976;-59.988036;821
+GR139;GR139;Moraceae;Artocarpus altilis (Parkinson) F.R.Fosbert;Jardin 2;-3.095717;-59.988919;822
+GR428;GR428;Annonaceae;Annona insignis R.E.Fr.;Trilha - IIa;-3.0981089;-59.9849498;823
+ND303;ND303;Sapindaceae;Talisia cerasina (Benth.) Radlk.;Jardin 4;-3.096992;-59.986635;824
+ND412;ND412;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Jardin 4;-3.097358;-59.986315;825
+CD083-2;CD083;Myrtaceae;Psidium;Jardin 1;;;826
+CD073-2;CD073;Lecythidaceae;Lecythis zabucajo Aubl.;BOT - C;-3.095323;-59.987106;827
+GR06-2;GR06;Araceae;Dracontium prancei G.H.Zhu & Croat;Jardin 4;-3.097694;-59.986609;828
+ND317;ND317;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIa;-3.097025;-59.986651;829
+GR035;GR035;Cucurbitaceae;Gurania bignoniacea (Poepp. & Endl.) C.Jeffrey;Jardin 10;-3.099375;-59.985313;830
+GR667;GR667;Leguminosae-caes;Cenostigma tocantinum Ducke;BOT - G;-3.095305;-59.986631;831
+GR696;GR696;Arecaceae;Euterpe oleracea Mart.;QPN - A;-3.096327;-59.988355;832
+GR306;GR306;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;Trilha - Vc;;;833
+GR490;GR490;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;DIR - H;-3.094312;-59.987695;834
+CD044-4;CD044;Lecythidaceae;Holopyxidium;DIR - D;-3.094739;-59.987836;835
+CD171;CD171;Arecaceae;Euterpe oleracea Mart.;Jardin 5;-3.095139;-59.987589;836
+CD188;CD188;Lauraceae;Aniba canelilla (Kunth) Mez;Jardin 5;;;837
+GR568;GR568;Leguminosae-caes;Caesalpinia;BOT - L;-3.095756;-59.987;838
+CD275-2;CD275;Chrysobalanaceae;Licania;Jardin 1;;;839
+GR195;GR195;Leguminosae-pap;Pterocarpus rohrii Vahl;Trilha - VIIIb;-3.096735;-59.9866333;840
+CD01;CD01;Anacardiaceae;Spondias mombin L.;Jardin 3;-3.09451;-59.989662;841
+GR307;GR307;Arecaceae;Euterpe oleracea Mart.;Trilha - Vc;;;842
+GR583;GR583;Annonaceae;Bocageopsis multiflora (Mart.) R.E.Fr.;Trilha - Va;-3.099333;-59.985024;843
+GR032-3;GR032;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Jardin 8;-3.094598;-59.987194;844
+GR533;GR533;Arecaceae;Euterpe precatoria Mart.;BOT - K;-3.095831;-59.987115;845
+CD196;CD196;Arecaceae;Euterpe;Jardin 3;;;846
+GR500;GR500;Leguminosae-mim;Inga;DIR - C;-3.09509;-59.987927;847
+GR312;GR312;Lecythidaceae;Lecythis;Trilha - VIa;-3.0970267;-59.987;848
+ND357-2;ND357;Meliaceae;Carapa guianensis Aubl.;Jardin 2;-3.095827;-59.988587;849
+CD152-3;CD152;Myrtaceae;Myrcia falax;Campo - B;-3.095457;-59.986427;850
+GR498;GR498;Malvaceae;Theobroma sylvestre Mart.;BOT - F;-3.095141;-59.986961;851
+CD093;CD093;Malvaceae;Quararibea cordata (Bonpl.) Visher;CdC - B;;;852
+GR567;GR567;Leguminosae-caes;Caesalpinia;BOT - L;-3.095812;-59.987026;853
+CD263-2;CD263;Arecaceae;Oenocarpus;MAQ - A;-3.097017;-59.987724;854
+CD128;CD128;Metteniusaceae;Poraqueiba sericea Tul.;Jardin 5;;;855
+GR30;GR30;Malvaceae;Herrania;Jardin 10;-3.099971;-59.98531;856
+GR444;GR444;Rutaceae;Zanthoxylum huberi P.G.Waterman;Trilha - IIa;-3.0976559;-59.9854926;857
+ND162;ND162;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;Jardin 2;-3.096368;-59.988019;858
+PLANT002;PLANT002;Anacardiaceae;Tapirira guianensis Aubl.;CCCI - C;-3.0959183;-59.9862567;859
+GR456;GR456;Arecaceae;Attalea maripa (Aubl.) Mart.;Trilha - IV;-3.0982017;-59.9858683;860
+GR310;GR310;Leguminosae-caes;Dimorphandra;Trilha - VIa;-3.0969867;-59.986965;861
+CD279-2;CD279;Simaroubaceae;Simarouba;Jardin 1;;;862
+CD320;CD320;Leguminosae-caes;Cenostigma tocantinum Ducke;BOT - G;-3.09526;-59.986606;863
+GR506;GR506;Anacardiaceae;Mangifera indica L.;SAU - A;-3.094604;-59.988479;864
+CD047-4;CD047;Malvaceae;Theobroma cacao L.;Jardin 2;;;865
+ND206;ND206;Arecaceae;Euterpe oleracea Mart.;Jardin 4;;;866
+GR630;GR630;Lauraceae;Ocotea guianensis Aubl.;DIR - G;-3.09518;-59.98741;867
+GR327;GR327;Olacaceae;Minquartia guianensis Aubl.;Trilha - VIb;-3.097435;-59.9874967;868
+ND405;ND405;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Jardin 4;-3.097338;-59.986314;869
+GR531;GR531;Sapotaceae;Pouteria caimito (Ruiz & Pav.) Radlk.;ADM101 -  A;-3.096423;-59.986513;870
+CP39;CP39;;Indet.;Jardin 8;;;871
+GR347;GR347;Sapotaceae;Pouteria macrophylla (Lam.) Eyma;Trilha - Ia;-3.096932;-59.987708;872
+GR602;GR602;Anacardiaceae;Mangifera indica L.;MAUA - C;-3.096116;-59.986939;873
+CD108-2;CD108;Meliaceae;Cedrella odorata L.;DIR - G;-3.094659;-59.987433;874
+GR167;GR167;Myrtaceae;Syzygium cumini (L.) Skeels;ADM - I;-3.094604;-59.989621;875
+PLANT015;PLANT015;Leguminosae-caes;Cenostigma tocantinum Ducke;BOT - A;-3.0952717;-59.986645;876
+GR683;GR683;Annonaceae;Annona muricata L.;GALP - C;-3.095466;-59.989047;877
+GR161;GR161;Annonaceae;Annona;QPN - A;-3.096309;-59.988096;878
+GR264;GR264;Meliaceae;Carapa guianensis Aubl.;Trilha - VIIIa;;;879
+CD073-3;CD073;Lecythidaceae;Lecythis zabucajo Aubl.;CdC - E;-3.097513;-59.986703;880
+CD214-2;CD214;Clusiaceae;Clusia;DIR - G;-3.095184;-59.987418;881
+ND331;ND331;Malvaceae;Ceiba pentandra (L.) Gaertn.;Jardin 4;-3.097233;-59.986852;882
+GR584;GR584;Leguminosae-pap;Dioclea;INCUB - A;-3.09615;-59.987843;883
+LF13;LF13;Melastomataceae;Indet.;Trilha - V;-3.098537;-59.985652;884
+GR323;GR323;Moraceae;Helicostylis tomentosa (Poepp. & Endl.) Rusby;Trilha - VIa;-3.09717;-59.9871667;885
+GR656;GR656;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Portaria - A;-3.09461;-59.987202;886
+CD309-2;CD309;Leguminosae-caes;Cynometra;BOT - J;-3.095462;-59.987717;887
+GR654-2;GR654;Leguminosae-caes;Cenostigma tocantinum Ducke;DICAP - B;-3.094913;-59.987034;888
+GR295;GR295;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Ilha - Auditório;-3.09724;-59.98632;889
+GR0101-2;GR0101;Apocynaceae;Plumeria;Jardin 5;-3.095094;-59.987806;890
+CD015;CD015;Annonaceae;Annona mucosa Jacq.;Jardin 2;;;891
+GR010;GR010;Meliaceae;Carapa guianensis Aubl.;Jardin 8;-3.094678;-59.987313;892
+ND288;ND288;Goupiaceae;Goupia glaberrima Radlk.;Trilha - VIIIa;-3.096998;-59.986511;893
+GR688;GR688;Burseraceae;Protium;MAUA - C;-3.096241;-59.986943;894
+ND257;ND257;Chrysobalanaceae;Couepia magnoliifolia Benth. ex Hook.f.;Trilha - VIIIa;-3.09693;-59.986925;895
+CD100-2;CD100;Chrysobalanaceae;Licania;Jardin 4;;;896
+GR471;GR471;Annonaceae;Bocageopsis multiflora (Mart.) R.E.Fr.;Trilha - VIIb;-3.0970033;-59.9856983;897
+GR296;GR296;Chrysobalanaceae;Couepia bracteosa Benth.;Ilha - Auditório;-3.0972883;-59.9863333;898
+ND281-2;ND281;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;CdC - D;-3.097316;-59.986497;899
+GR596;GR596;Myrtaceae;Syzygium malaccense (L.) Merr. & L.M.Perry;CPPF - A;-3.095701;-59.988142;900
+GR074;GR074;Leguminosae-caes;Dialium guianense (Aubl.) Sandwith;CPPN - A;-3.096619;-59.987688;901
+GR218;GR218;Leguminosae-caes;Cassia grandis L.;Trilha - VIIIb;-3.0966467;-59.9864517;902
+CD312;CD312;Rubiaceae;Kerianthera preclara J.H.Kirkbr.;BOT - E;-3.095341;-59.987236;903
+GR391;GR391;Annonaceae;Guatteria;Trilha - Va;;;904
+GR02;GR02;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;DIR - C;-3.095073;-59.98773;905
+GR069;GR069;Moraceae;Morus alba L.;MAQ - F;-3.097157;-59.987671;906
+GR545;GR545;Sapindaceae;Indet.;CdC - C;-3.097273;-59.986939;907
+GR031;GR031;Euphorbiaceae;Hevea brasiliensis (Willd. ex A.Juss.) Müll.Arg.;Jardin 8;-3.094436;-59.987167;908
+GR60;GR60;Gentianaceae;Potalia;BOT - M;-3.095664;-59.987403;909
+GR507-2;GR507;Rubiaceae;Genipa americana L.;SAU - C;-3.094291;-59.987972;910
+GR163;GR163;Leguminosae-mim;Inga;INCUB - A;-3.096162;-59.987833;911
+CD295-2;CD295;Elaeocarpaceae;Sloanea;Jardin 2;;;912
+GR590;GR590;Leguminosae-caes;Cynometra;DIR - A;-3.095326;-59.987649;913
+GR540;GR540;Annonaceae;Indet.;ADM101 -  A;-3.096336;-59.98628;914
+GR511;GR511;Arecaceae;Indet.;BOT - K;-3.09582;-59.987205;915
+CD203;CD203;Leguminosae-mim;Pithecellobium;Jardin 5;;;916
+GR235;GR235;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIIb;-3.0970267;-59.9864817;917
+GR422;GR422;Leguminosae-mim;Inga edulis Mart.;Trilha - IIa;-3.098365;-59.9848467;918
+GR481;GR481;Sapindaceae;Talisia esculenta (Cambess.) Radlk.;CPPN - A;-3.096452;-59.98781;919
+ND407;ND407;Chrysobalanaceae;Acioa longipendula (Pilg.) Sothers & Prance;Jardin 4;-3.09731;-59.986292;920
+CD013;CD013;Polygonaceae;Coccoloba gigantifolia Melo, C.A.Cid Ferreira & R.Gribel;CdC - D;;;921
+CD135;CD135;Moraceae;Maquira sclerophylla (Ducke) C.C.Berg;Jardin 1;;;922
+GR226;GR226;Arecaceae;Elaeis oleifera (Kunth) Cortés;Trilha - VIIIb;;;923
+CD180;CD180;Chrysobalanaceae;Licania macrophylla Benth.;Jardin 5;;;924
+CD056-2;CD056;Anacardiaceae;Tapirira guianensis Aubl.;Jardin 1;;;925
+GR189;GR189;Burseraceae;Protium rhoifolium (Benth.) Byng & Christenh.;Trilha - VIIIb;-3.0969083;-59.9865067;926
+GR191;GR191;Leguminosae-pap;Bocoa viridiflora (Ducke) R.S.Cowan;Trilha - VIIIb;-3.096795;-59.9867067;927
+PLANT022;PLANT022;Lauraceae;Indet.;ADM - I;-3.0946917;-59.989505;928
+GR489;GR489;Leguminosae-caes;Eperua;CdC - E;-3.097528;-59.986526;929
+CD045-2;CD045;Myrtaceae;Eugenia stipitata McVaugh;CdC - B;-3.097175;-59.986647;930
+GR125-3;GR125;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;BOT - E;-3.095366;-59.98748;931
+CD242-3;CD242;Burseraceae;Trattinnickia glaziovii Swart;MAQ - C;;;932
+ND079;ND079;Humiriaceae;Endopleura uchi (Huber) Cuatrec.;Jardin 4;;;933
+GR661;GR661;Sapotaceae;Indet.;ADM - G;-3.093948;-59.989155;934
+GR472;GR472;Erythroxylaceae;Erythroxylum;Trilha - VIIb;-3.0970417;-59.9857417;935
+CD284;CD284;Leguminosae-pap;Ormosia;Jardin 1;;;936
+CD270;CD270;Annonaceae;Ephedranthus amazonicus R.E.Fr.;MAQ - C;;;937
+GR470;GR470;Leguminosae-pap;Andira;Trilha - VIIb;-3.0971017;-59.9857383;938
+GR665;GR665;;Indet.;Campo - B;-3.095241;-59.986413;939
+GR427;GR427;Arecaceae;Syagrus inajai (Spruce) Becc.;Trilha - IIa;-3.098195;-59.98489;940
+GR426;GR426;Arecaceae;Euterpe oleracea Mart.;Trilha - IIa;-3.098255;-59.9847017;941
+CD074;CD074;Combretaceae;Buchenavia;Jardin 3;;;942
+GR213;GR213;Arecaceae;Euterpe precatoria Mart.;Trilha - VIIIb;-3.0967;-59.98656;943
+CD219-2;CD219;Rubiaceae;Warszewiczia coccinea (Vahl) Klotzsch;BOT - E;-3.095297;-59.987506;944
+CD08-3;CD08;Arecaceae;Elaeis oleifera (Kunth) Cortés;DIR - C;-3.095023;-59.987598;945
+GR658;GR658;Meliaceae;Swietenia macrophylla King;DICAP - B;-3.094976;-59.987096;946
+GR341;GR341;Bignoniaceae;Handroanthus serratifolius (A.H.Gentry) S.O.Grose;Trilha - Ia;;;947
+GR123;GR123;Cactaceae;Pereskia bleo (Kunth) DC.;Trilha - IIc;-3.099667;-59.984738;948
+GR516;GR516;Annonaceae;Unonopsis stipitata Diels;Trilha - VIa;-3.096942;-59.986954;949
+GR441;GR441;Cochlospermaceae;Cochlospermum orinocense (Kunth) Steud.;Trilha - VIIa;-3.097445;-59.9854633;950
+GR276;GR276;Urticaceae;Pourouma cecropiifolia Mart.;Trilha - Ve;;;951
+GR056;GR056;Melastomataceae;Clidemia hirta (L.) D.Don;Trilha - IV;-3.097755;-59.985459;952
+CD027;CD027;Leguminosae-pap;Cochliasanthus fairchildiana R.A.Howard;DIR - H;-3.094576;-59.987685;953
+CD011-2;CD011;Myrtaceae;Syzygium cumini (L.) Skeels;SAU - B;-3.094581;-59.988072;954
+GR638;GR638;Arecaceae;Euterpe precatoria Mart.;CdC - D;-3.097435;-59.986398;955
+GR043;GR043;Arecaceae;Mauritia flexuosa L.f.;Trilha - IIIa;-3.098924;-59.984252;956
+CD090-4;CD090;Malvaceae;Ceiba pentandra (L.) Gaertn.;CCCI - A;-3.095744;-59.986649;957
+ND270;ND270;Annonaceae;Rollinia exsucca (DC. ex Dunal) A.DC.;Jardin 4;;;958
+GR467;GR467;Leguminosae-pap;Andira;Trilha - VIIb;-3.09721;-59.98556;959
+LF23;LF23;Melastomataceae;Indet.;Trilha - V;-3.097916;-59.986019;960
+CD099-6;CD099;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;ADM - E;-3.094164;-59.988976;961
+CD081;CD081;Apocynaceae;Rauvolfia;Jardin 3;;;962
+CD205;CD205;Burseraceae;Protium;DIR - C;-3.095056;-59.9878;963
+GR109;GR109;Rutaceae;Citrus;CdC - E;-3.097466;-59.986707;964
+GR234;GR234;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;Trilha - VIIIb;-3.0969817;-59.98647;965
+GR018;GR018;Heliconiaceae;Heliconia chartacea Lane ex Barreiros;Jardin 5;-3.095089;-59.988547;966
+GR261;GR261;Sapindaceae;Talisia cupularis Radlk.;Trilha - VIIIa;;;967
+CD010;CD010;Araliaceae;Didymopanax morototoni (Aubl.) Decne. & Planch.;Jardin 6;-3.093867;-59.988545;968
+GR079;GR079;Zamiaceae;Zamia ulei Dammer;BOT - G;;;969
+GR024-2;GR024;Siparunaceae;Siparuna guianensis Aubl.;BOT - F;-3.095166;-59.986937;970
+GR403;GR403;Achariaceae;Lindackeria;Trilha - Va;;;971
+GR421;GR421;Anacardiaceae;Anacardium occidentale L.;Trilha - IIa;-3.0984583;-59.9848767;972
+GR211;GR211;Arecaceae;Euterpe precatoria Mart.;Trilha - VIIIb;;;973
+GR510;GR510;Arecaceae;Indet.;BOT - K;-3.095724;-59.987245;974
+GR401;GR401;Arecaceae;Oenocarpus bacaba Mart.;Trilha - Va;;;975
+GR132;GR132;Vochysiaceae;Qualea paraensis Ducke;Jardin 4;-3.097255;-59.986186;976
+GR236;GR236;Leguminosae-pap;Pterocarpus rohrii Vahl;Trilha - VIIIb;-3.09702;-59.986485;977
+GR071-2;GR071;Lauraceae;Persea;Jardin 2;-3.095397;-59.989021;978
+GR023;GR023;Annonaceae;Unonopsis stipitata Diels;Trilha - Va;-3.099438;-59.985007;979
+GR197;GR197;Lecythidaceae;Eschweilera coriacea (DC.) S.A.Mori;Trilha - VIIIb;-3.0967467;-59.986545;980
+GR459;GR459;Arecaceae;Euterpe oleracea Mart.;Trilha - VIIb;-3.0974767;-59.98542;981
+GR528;GR528;Leguminosae-mim;Inga laurina (Sw.) Willd.;BOT - F;-3.094987;-59.987233;982
+GR449;GR449;Myrtaceae;Eugenia;Trilha - IV;-3.0978617;-59.9854967;983
+GR142;GR142;Humiriaceae;Endopleura uchi (Huber) Cuatrec.;Trilha - Vc;-3.097654;-59.986428;984
+GR194;GR194;Chrysobalanaceae;Couepia;Trilha - VIIIb;-3.0968367;-59.9865267;985
+GR017-2;GR017;Malvaceae;Theobroma grandiflorum (Willd. ex Spreng.) K.Schum.;CPPF - A;-3.095676;-59.988218;986
+GR119;GR119;Leguminosae-mim;Inga;ILHA - Incubadora;-3.095937;-59.988059;987
+CD233-2;CD233;Leguminosae-pap;Swartzia;Jardin 2;;;988
+GR048;GR048;Araceae;Philodendron melinonii Brongn. ex Regel;DIR - C;-3.095181;-59.987623;989
